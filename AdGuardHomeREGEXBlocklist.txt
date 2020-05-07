@@ -1,3 +1,6 @@
+/REGEX/^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
+/REGEX/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+/REGEX/^(.+[_.-])?telemetry[_.-]
 /REGEX/^(www[0-9]*\.)?xn--
 /REGEX/^adim(age|g)s?[0-9]*[_.-]
 /REGEX/^adtrack(er|ing)?[0-9]*[_.-]
