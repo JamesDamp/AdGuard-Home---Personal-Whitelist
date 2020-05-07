@@ -20,6 +20,7 @@
 @@||appboot.netflix.com^$important
 @@||appcenter.ms^$important
 @@||appldnld.apple.com^$important
+@@||apple.com^$important
 @@||ap-southeast-2-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||aqua.xboxservices.com^$important
 @@||asm.np.community.playstation.net^$important
@@ -84,6 +85,7 @@
 @@||gallery.services.forzamotorsport.net^$important
 @@||gameservices.fh4.forzamotorsport.net^$important
 @@||gate.hockeyapp.net^$important
+@@||gateway.icloud.com^$important
 @@||gearsofwar.net^$important
 @@||gfwsl.geforce.com^$important
 @@||goo.gl^$important
@@ -109,6 +111,7 @@
 @@||i-0e6be15d765b2346a.ddns.ea.com^$important
 @@||i-0faa2a8e88414379e.ddns.ea.com^$important
 @@||ichnaea.netflix.com^$important
+@@||icloud.com^$important
 @@||img.youtube.com^$important
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||in.appcenter.ms^$important
@@ -127,6 +130,7 @@
 @@||log.pinterest.com^$important
 @@||login.windows.net^$important
 @@||malwarebytes.com^$important
+@@||mb6gpu84.com^$important
 @@||me.apple-dns.net^$important
 @@||media.sbs.com.au^$important
 @@||metrics.icloud.com^$important
@@ -158,6 +162,7 @@
 @@||origin-my.sharepoint.com^$important
 @@||ota-downloads.nvidia.com^$important
 @@||packs.svc.halowaypoint.com^$important
+@@||parallels.com^$important
 @@||party.rnps.dl.playstation.net^$important
 @@||pas.external.prod.easfc.ea.com^$important
 @@||pfmsqosprod.australiaeast.cloudapp.azure.com^$important
