@@ -1,0 +1,13 @@
+/REGEX/^(www[0-9]*\.)?xn--
+/REGEX/^adim(age|g)s?[0-9]*[_.-]
+/REGEX/^adtrack(er|ing)?[0-9]*[_.-]
+/REGEX/^advert(s|is(ing|ements?))?[0-9]*[_.-]
+/REGEX/^aff(iliat(es?|ion))?[_.-]
+/REGEX/^analytics?[_.-]
+/REGEX/^banners?[_.-]
+/REGEX/^beacons?[0-9]*[_.-]
+/REGEX/^count(ers?)?[0-9]*[_.-]
+/REGEX/^mads\.
+/REGEX/^pixels?[-.]
+/REGEX/^stat(s|istics)?[0-9]*[_.-]
+/REGEX/^track(ing)?[0-9]*[_.-]
