@@ -29,6 +29,7 @@
 @@||auth.blu.livefilestore.com^$important
 @@||avatarsv3.xboxlive.com^$important
 @@||az725175.vo.msecnd.net^$important
+@@||banprocessor.svc.halowaypoint.com^$important
 @@||bethesda.net^$important
 @@||blob.core.windows.net^$important
 @@||browser.pipe.aria.microsoft.com^$important
@@ -92,6 +93,7 @@
 @@||gsp64-ssl.ls-apple.com.akadns.net^$important
 @@||gs-sec.ww.np.dl.playstation.net^$important
 @@||haloplayer.svc.halowaypoint.com^$important
+@@||halowaypoint.com^$important
 @@||i-002303ef18592c9f9.ddns.ea.com^$important
 @@||i-009dfae2e38a96ae6.ddns.ea.com^$important
 @@||i-013a8d26a2f6d5161.ddns.ea.com^$important
@@ -121,6 +123,7 @@
 @@||linear-api.svc.halowaypoint.com^$important
 @@||link.theplatform.com^$important
 @@||live.net^$important
+@@||lobby.svc.halowaypoint.com^$important
 @@||log.pinterest.com^$important
 @@||login.windows.net^$important
 @@||malwarebytes.com^$important
@@ -154,6 +157,7 @@
 @@||onedriveclucprodbn20006.blob.core.windows.net^$important
 @@||origin-my.sharepoint.com^$important
 @@||ota-downloads.nvidia.com^$important
+@@||packs.svc.halowaypoint.com^$important
 @@||party.rnps.dl.playstation.net^$important
 @@||pas.external.prod.easfc.ea.com^$important
 @@||pfmsqosprod.australiaeast.cloudapp.azure.com^$important
@@ -201,6 +205,7 @@
 @@||skype.com^$important
 @@||sn.api.np.km.playstation.net^$important
 @@||social.xboxlive.com^$important
+@@||spartanstats.svc.halowaypoint.com^$important
 @@||spoprod-a.akamaihd.net^$important
 @@||spring18.gosredirector.ea.com^$important
 @@||static2.sharepointonline.com^$important
