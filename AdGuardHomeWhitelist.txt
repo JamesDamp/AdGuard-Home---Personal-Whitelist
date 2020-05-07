@@ -4,6 +4,7 @@
 @@||a790.w16.akamai.net^$important
 @@||accounts.ea.com^$important
 @@||activity.api.np.km.playstation.net^$important
+@@||activity.windows.com^$important
 @@||aka.ms^$important
 @@||amzn.com^$important
 @@||amzn.to^$important
@@ -25,6 +26,7 @@
 @@||checkout.rnps.dl.playstation.net^$important
 @@||client-s.gateway.messenger.live.com^$important
 @@||commerce.api.np.km.playstation.net^$important
+@@||compass-ssl.xboxlive.com^$important
 @@||continuum.dds.microsoft.com^$important
 @@||csla.np.community.playstation.net^$important
 @@||ct.pinterest.com^$important
@@ -48,6 +50,7 @@
 @@||fswitch.dl.playstation.net^$important
 @@||fus01.ps4.update.playstation.net^$important
 @@||fzft992-gosprodfeapp7137.i3d-dxb.ea.com^$important
+@@||gate.hockeyapp.net^$important
 @@||gearsofwar.net^$important
 @@||gfwsl.geforce.com^$important
 @@||goo.gl^$important
@@ -92,6 +95,7 @@
 @@||minecraftearthcdn.azureedge.net^$important
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||mojang.com^$important
+@@||musicimage.xboxlive.com^$important
 @@||nleditor.osi.office.net^$important
 @@||nsx.sec.np.dl.playstation.net^$important
 @@||officeapps.live.com^$important
@@ -115,6 +119,7 @@
 @@||profile.gamepass.com^$important
 @@||ps4-system.sec.np.dl.playstation.net^$important
 @@||psn-rsc.prod.dl.playstation.net^$important
+@@||publisher.liveperson.net^$important
 @@||r4.res.office365.com^$important
 @@||resource.np.ac.playstation.net^$important
 @@||resources.sbs.com.au^$important
@@ -126,8 +131,10 @@
 @@||sbsvodns-vh.akamaihd.net^$important
 @@||secure.netflix.com^$important
 @@||settings-win.data.microsoft.com^$important
+@@||sfbridge.prod.athena.msrareservices.com^$important
 @@||skype.com^$important
 @@||sn.api.np.km.playstation.net^$important
+@@||social.xboxlive.com^$important
 @@||spring18.gosredirector.ea.com^$important
 @@||static-resource.np.community.playstation.net^$important
 @@||stats-beta.svc.gearsofwar.net^$important
@@ -135,19 +142,23 @@
 @@||stats-prod.svc.gearsofwar.net^$important
 @@||storage.live.com^$important
 @@||store-images.s-microsoft.com^$important
+@@||telemetry.svc.halowaypoint.com^$important
 @@||teredo.ipv6.microsoft.com^$important
+@@||titlestorage.xboxlive.com^$important
 @@||trace.svc.ui.com^$important
 @@||tracking.epicgames.com^$important
 @@||trdojapanwestrs4vmss.ipv6.microsoft.com.akadns.net^$important
 @@||trk.pinterest.com^$important
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 @@||upchk.api.playstation.com^$important
+@@||update.xboxlive.com^$important
 @@||upload.fp.measure.office.com^$important
 @@||upload2.fp.measure.office.com^$important
 @@||urlconfig.api.playstation.com^$important
 @@||us.np.stun.playstation.net^$important
 @@||user.auth.xboxlive.com^$important
 @@||userpresence.xboxlive.com^$important
+@@||userstats.xboxlive.com^$important
 @@||us-evnt-edge.np.community.playstation.net^$important
 @@||us-gcd.np.community.playstation.net^$important
 @@||us-gmsg.np.community.playstation.net^$important
@@ -180,3 +191,4 @@
 @@||xbl-smooth-ssl-xboxlive-com.akamaized.net^$important
 @@||xbox.com^$important
 @@||xboxab.com^$important
+@@||xboxlive.com^$important
