@@ -131,3 +131,4 @@
 @@||win1901.ipv6.microsoft.com^$important
 @@||xboxlive.com^$important
 @@||xbox.com^$important
+@@||catalog.gamepass.com^$important
