@@ -1,5 +1,4 @@
-# Regex filters go here
-
+################################################################# Regex filters go here
 /REGEX/^(www[0-9]*\.)?xn--
 /REGEX/^adim(age|g)s?[0-9]*[_.-]
 /REGEX/^adtrack(er|ing)?[0-9]*[_.-]
@@ -13,9 +12,7 @@
 /REGEX/^pixels?[-.]
 /REGEX/^stat(s|istics)?[0-9]*[_.-]
 /REGEX/^track(ing)?[0-9]*[_.-]
-
-# Regular whitelists go here
-
+################################################################# Regular whitelists go here
 @@||54-201-170-112-pushcl.np.communication.playstation.net^
 @@||72qclg2-gosprod-qos02.i3d-jnb.ea.com^
 @@||a463.w10.akamai.net^
