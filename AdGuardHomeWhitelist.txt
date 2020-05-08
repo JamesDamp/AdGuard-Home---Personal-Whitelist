@@ -1,3 +1,4 @@
+@@||1.debian.pool.ntp.org^$important
 @@||4-centralus1.pushp.svc.ms^$important
 @@||52-10-129-210-pushcl.np.communication.playstation.net^$important
 @@||54-201-170-112-pushcl.np.communication.playstation.net^$important
@@ -37,21 +38,25 @@
 @@||au-tpy.np.community.playstation.net^$important
 @@||avatarsv3.xboxlive.com^$important
 @@||az725175.vo.msecnd.net^$important
+@@||b5n.1password.com^$important
 @@||banprocessor.svc.halowaypoint.com^$important
 @@||bethesda.net^$important
 @@||blob.core.windows.net^$important
 @@||browser.pipe.aria.microsoft.com^$important
 @@||bugs.mojang.com^$important
 @@||c.bay.livefilestore.com^$important
+@@||c.msn.com^$important
 @@||c1.microsoft.com^$important
 @@||captive.apple.com^$important
 @@||catalog.api.np.km.playstation.net^$important
 @@||catalog.gamepass.com^$important
 @@||catalog.services.forzamotorsport.net^$important
 @@||cdn.deadorbit.net^$important
+@@||cdn.nintendo.net^$important
 @@||channel.svc.halowaypoint.com^$important
 @@||chat.mixer.com^$important
 @@||checkout.rnps.dl.playstation.net^$important
+@@||client.wns.windows.com^$important
 @@||client-s.gateway.messenger.live.com^$important
 @@||cms.sso.msgamestudios.com^$important
 @@||commerce.api.np.km.playstation.net^$important
@@ -68,6 +73,7 @@
 @@||ct.pinterest.com^$important
 @@||dau01.ps4.update.playstation.net^$important
 @@||deadorbit.net^$important
+@@||device.amplifi.com^$important
 @@||dlassets-ssl.xboxlive.com^$important
 @@||dm2301.storage.live.com^$important
 @@||dmd.metaservices.microsoft.com^$important
@@ -75,6 +81,7 @@
 @@||e7065.e2.akamaiedge.net^$important
 @@||ea.com^$important
 @@||eaassets-a.akamaihd.net^$important
+@@||eas.outlook.com^$important
 @@||ecc8.playfabapi.com^$important
 @@||entitlements.svc.halowaypoint.com^$important
 @@||epicgames.com^$important
@@ -94,6 +101,7 @@
 @@||friends.rnps.dl.playstation.net^$important
 @@||fswitch.dl.playstation.net^$important
 @@||fus01.ps4.update.playstation.net^$important
+@@||fw-update.ubnt.com^$important
 @@||fzft992-gosprodfeapp7137.i3d-dxb.ea.com^$important
 @@||gallery.services.forzamotorsport.net^$important
 @@||gamelist.api.playstation.com^$important
@@ -181,6 +189,7 @@
 @@||oqesn.np.dl.playstation.net^$important
 @@||origin-my.sharepoint.com^$important
 @@||ota-downloads.nvidia.com^$important
+@@||otf.msn.com^$important
 @@||packs.svc.halowaypoint.com^$important
 @@||parallels.com^$important
 @@||party.rnps.dl.playstation.net^$important
@@ -243,6 +252,7 @@
 @@||spartanstats.svc.halowaypoint.com^$important
 @@||spoprod-a.akamaihd.net^$important
 @@||spring18.gosredirector.ea.com^$important
+@@||static.ubnt.com^$important
 @@||static2.sharepointonline.com^$important
 @@||static8.cdn.ubi.com^$important
 @@||static-cdn.jtvnw.net^$important
@@ -272,6 +282,7 @@
 @@||ubiservices.cdn.ubi.com^$important
 @@||ubisoft-avatars.akamaized.net^$important
 @@||ugc.api.playstation.com^$important
+@@||unifi-report.ubnt.com^$important
 @@||upchk.api.playstation.com^$important
 @@||update.xboxlive.com^$important
 @@||upload.fp.measure.office.com^$important
