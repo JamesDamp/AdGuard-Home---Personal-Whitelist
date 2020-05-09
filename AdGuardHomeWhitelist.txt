@@ -1,3 +1,7 @@
+### Personal Whitelist that has a focus on ensuring console gaming services will work
+### as well as major first party platform providers such as Apple and Microsoft.
+### Good luck!
+
 @@||1.debian.pool.ntp.org^$important
 @@||4-centralus1.pushp.svc.ms^$important
 @@||52-10-129-210-pushcl.np.communication.playstation.net^$important
