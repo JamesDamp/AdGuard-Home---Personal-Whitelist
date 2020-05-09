@@ -33,6 +33,7 @@
 @@||au-fllw.np.community.playstation.net^$important
 @@||au-ivt.np.community.playstation.net^$important
 @@||au-prof.np.community.playstation.net^$important
+@@||aussiebroadband.com.au^$important
 @@||auth.api.np.ac.playstation.net^$important
 @@||auth.blu.livefilestore.com^$important
 @@||au-tpy.np.community.playstation.net^$important
@@ -325,6 +326,7 @@
 @@||win1711.ipv6.microsoft.com^$important
 @@||win1807.ipv6.microsoft.com^$important
 @@||win1901.ipv6.microsoft.com^$important
+@@||wpad.localdomain^$important
 @@||www.msftconnecttest.com^$important
 @@||www.xboxlive.com^$important
 @@||www4.signon.gravityshavings.net^$important
