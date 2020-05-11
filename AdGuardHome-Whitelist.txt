@@ -1,7 +1,8 @@
-### Personal Whitelist that has a focus on ensuring console gaming services will work
+### Personal Whitelist that has a focus on ensuring console gaming services will work: Xbox, Sony, Epic, Rockstar, etc.
 ### as well as major first party platform providers such as Apple and Microsoft.
 ### Good luck!
 ###
+
 @@||*.1.msftsrvcs.vo.llnwi.net^$important
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.dscd.akamai.net^$important
@@ -27,6 +28,7 @@
 @@||4-centralus1.pushp.svc.ms^$important
 @@||52-10-129-210-pushcl.np.communication.playstation.net^$important
 @@||54-201-170-112-pushcl.np.communication.playstation.net^$important
+@@||6-c-0003.c-msedge.net^$important
 @@||72qclg2-gosprod-qos02.i3d-jnb.ea.com^$important
 @@||7651.playfabapi.com^$important
 @@||95de.playfabapi.com^$important
@@ -65,6 +67,7 @@
 @@||aussiebroadband.com.au^$important
 @@||auth.api.np.ac.playstation.net^$important
 @@||auth.blu.livefilestore.com^$important
+@@||auth-gta5-prod.ros.rockstargames.com^$important
 @@||au-tpy.np.community.playstation.net^$important
 @@||avatarsv3.xboxlive.com^$important
 @@||az725175.vo.msecnd.net^$important
@@ -102,8 +105,10 @@
 @@||content-hacs.svc.halowaypoint.com^$important
 @@||continuum.dds.microsoft.com^$important
 @@||crackerjack.msgamestudios.com^$important
+@@||crews-gta5-prod.ros.rockstargames.com^$important
 @@||cs11.wpc.v0cdn.net^$important
 @@||cs1137.wpc.gammacdn.net^$important
+@@||cs-gta5-prod.ros.rockstargames.com^$important
 @@||csla.np.community.playstation.net^$important
 @@||ct.pinterest.com^$important
 @@||cy2.licensing.md.mp.microsoft.com.akadns.net^$important
@@ -186,7 +191,9 @@
 @@||icloud.com^$important
 @@||iecvlist.microsoft.com^$important
 @@||img.youtube.com^$important
+@@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||in.appcenter.ms^$important
+@@||inbox-gta5-prod.ros.rockstargames.com^$important
 @@||int.whiteboard.microsoft.com^$important
 @@||ipv6.microsoft.com^$important
 @@||ipv6.msftconnecttest.com^$important
@@ -217,6 +224,7 @@
 @@||microsofthalo.sc.omtrdc.net^$important
 @@||minecraftearthcdn.azureedge.net^$important
 @@||mixer.com^$important
+@@||mm-gta5-prod.ros.rockstargames.com^$important
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||mojang.com^$important
 @@||msagfx.live.com^$important
@@ -255,6 +263,7 @@
 @@||peer4-wst.msedge.net^$important
 @@||pfmsqosprod.australiaeast.cloudapp.azure.com^$important
 @@||pfmsqosprod.eastasia.cloudapp.azure.com^$important
+@@||pfmsqosprod.eastus2.cloudapp.azure.com^$important
 @@||pfmsqosprod.japanwest.cloudapp.azure.com^$important
 @@||pfmsqosprod.northcentralus.cloudapp.azure.com^$important
 @@||pfmsqosprod.westeurope.cloudapp.azure.com^$important
@@ -272,13 +281,16 @@
 @@||prdw-time-us.prd.rings.solution^$important
 @@||prdw-time-us.prd.rings.solutions^$important
 @@||privacysettings.api.playstation.com^$important
+@@||prod.cloud.rockstargames.com^$important
 @@||prod.telemetry.ros.rockstargames.com^$important
 @@||prod-notification-websocket.bethesda.net^$important
 @@||profile.api.playstation.com^$important
 @@||profile.gamepass.com^$important
+@@||prs-gta5-prod.ros.rockstargames.com^$important
 @@||ps4.np.playstation.net^$important
 @@||ps4-system.sec.np.dl.playstation.net^$important
 @@||ps4updptl.au.np.community.playstation.net^$important
+@@||ps-gta5-prod.ros.rockstargames.com^$important
 @@||psn-rsc.prod.dl.playstation.net^$important
 @@||public-ubiservices.ubi.com^$important
 @@||public-ws-ubiservices.ubi.com^$important
@@ -295,6 +307,8 @@
 @@||rl.data.ea.com^$important
 @@||rnps-crl.dl.playstation.net^$important
 @@||roaming.officeapps.live.com^$important
+@@||rockstargames.com^$important
+@@||ros.rockstargames.com^$important
 @@||s2s.config.skype.com^$important
 @@||s3.us-east-2.amazonaws.com^$important
 @@||satchel-cdn.api.playstation.com^$important
@@ -336,6 +350,7 @@
 @@||store-images.microsoft.com^$important
 @@||sts.services.forzamotorsport.net^$important
 @@||tccmsms.azureedge.net^$important
+@@||telemetry.ros.rockstargames.com^$important
 @@||telemetry.services.forzamotorsport.net^$important
 @@||telemetry.svc.halowaypoint.com^$important
 @@||teredo.ipv6.microsoft.com^$important
@@ -353,6 +368,7 @@
 @@||ubiservices.cdn.ubi.com^$important
 @@||ubisoft-avatars.akamaized.net^$important
 @@||ugc.api.playstation.com^$important
+@@||ugc-gta5-prod.ros.rockstargames.com^$important
 @@||unifi-report.ubnt.com^$important
 @@||unitedstates.smartscreen-prod.microsoft.com^$important
 @@||upchk.api.playstation.com^$important
@@ -435,4 +451,3 @@
 @@||xbox-global.ifs.windows.com^$important
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
-
