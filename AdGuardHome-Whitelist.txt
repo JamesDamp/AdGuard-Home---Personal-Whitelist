@@ -1,8 +1,6 @@
 ### Personal Whitelist that has a focus on ensuring console gaming services will work: Xbox, Sony, Epic, Rockstar, etc.
 ### as well as major first party platform providers such as Apple and Microsoft.
 ### Good luck!
-###
-
 @@||*.1.msftsrvcs.vo.llnwi.net^$important
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.dscd.akamai.net^$important
@@ -21,10 +19,10 @@
 @@||1.debian.pool.ntp.org^$important
 @@||2.dl.delivery.mp.microsoft.com^$important
 @@||2.tlu.dl.delivery.mp.microsoft.com^$important
-@@||3.dl.delivery.mp.microsoft.com.c.footprint.net^$important
 @@||3.dl.delivery.mp.microsoft.com^$important
-@@||3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net^$important
+@@||3.dl.delivery.mp.microsoft.com.c.footprint.net^$important
 @@||3.tlu.dl.delivery.mp.microsoft.com^$important
+@@||3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net^$important
 @@||4-centralus1.pushp.svc.ms^$important
 @@||52-10-129-210-pushcl.np.communication.playstation.net^$important
 @@||54-201-170-112-pushcl.np.communication.playstation.net^$important
@@ -53,8 +51,8 @@
 @@||apple.com^$important
 @@||ap-southeast-2-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||aqua.xboxservices.com^$important
-@@||arc.msn.com.nsatc.net^$important
 @@||arc.msn.com^$important
+@@||arc.msn.com.nsatc.net^$important
 @@||a-ring.msedge.net^$important
 @@||asm.np.community.playstation.net^$important
 @@||assets.ctfassets.net^$important
@@ -127,6 +125,7 @@
 @@||eas.outlook.com^$important
 @@||ecc8.playfabapi.com^$important
 @@||emdl.ws.microsoft.com^$important
+@@||enphaseenergy.com^$important
 @@||entitlements.svc.halowaypoint.com^$important
 @@||epicgames.com^$important
 @@||es.ring.com^$important
@@ -143,6 +142,7 @@
 @@||fifa20-prod-app-ps4-08.ea.com^$important
 @@||forms.office.com^$important
 @@||forzamotorsport.net^$important
+@@||fp.msedge.net^$important
 @@||fp-vp.azureedge.net^$important
 @@||friendfinder.api.np.km.playstation.net^$important
 @@||friends.rnps.dl.playstation.net^$important
@@ -228,6 +228,7 @@
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||mojang.com^$important
 @@||msagfx.live.com^$important
+@@||msftconnecttest.com^$important
 @@||msftsrvcs.vo.llnwd.net^$important
 @@||msgamestudios.com^$important
 @@||msr-public-ubiservices.ubi.com^$important
@@ -247,6 +248,7 @@
 @@||ocsp.sectigo.com^$important
 @@||ocsp.usertrust.com^$important
 @@||odinvzc.azureedge.net^$important
+@@||office.com^$important
 @@||officeapps.live.com^$important
 @@||onecollector.cloudapp.aria^$important
 @@||onedriveclubproddm20007.blob.core.windows.net^$important
@@ -270,6 +272,7 @@
 @@||pfmsqosprod.westus.cloudapp.azure.com^$important
 @@||pin-em.data.ea.com^$important
 @@||ping.enphaseenergy.com^$important
+@@||ping.ubnt.com^$important
 @@||ping.ui.com^$important
 @@||pin-river.data.ea.com^$important
 @@||plaid.xboxservices.com^$important
@@ -298,6 +301,7 @@
 @@||query.prod.cms.rt.microsoft.com^$important
 @@||r4.res.office365.com^$important
 @@||referral.ubi.com^$important
+@@||reports.enphaseenergy.com^$important
 @@||resource.np.ac.playstation.net^$important
 @@||resources.sbs.com.au^$important
 @@||rewards.services.forzamotorsport.net^$important
@@ -325,11 +329,12 @@
 @@||sfbwebextnsw.origin.com.au^$important
 @@||share.microsoft.com^$important
 @@||shellprod.msocdn.com^$important
+@@||signon.gravityshavings.net^$important
 @@||skyapi.onedrive.live.com^$important
 @@||skype.com^$important
 @@||skypeecs-prod-usw-0-b.cloudapp.net^$important
-@@||sls.update.microsoft.com.nsatc.net^$important
 @@||sls.update.microsoft.com^$important
+@@||sls.update.microsoft.com.nsatc.net^$important
 @@||smartscreen-sn3p.smartscreen.microsoft.com^$important
 @@||sn.api.np.km.playstation.net^$important
 @@||social.xboxlive.com^$important
@@ -399,8 +404,8 @@
 @@||us-tpy.np.community.playstation.net^$important
 @@||us-west-2-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||utas.external.s2.fut.ea.com^$important
-@@||v10.events.data.microsoft.com/onecollector/1.0/^$important
 @@||v10.events.data.microsoft.com^$important
+@@||v10.events.data.microsoft.com/onecollector/1.0/^$important
 @@||v10.vortex-win.data.microsoft.com/collect/v1^$important
 @@||v20.vortex-win.data.microsoft.com^$important
 @@||validation-v2.sls.trafficmanager.net^$important
@@ -421,13 +426,6 @@
 @@||win1807.ipv6.microsoft.com^$important
 @@||win1901.ipv6.microsoft.com^$important
 @@||wpad.localdomain^$important
-@@||www.bing.com/client^$important
-@@||www.bing.com/proactive^$important
-@@||www.bing.com/threshold/xls.aspx^$important
-@@||www.msftconnecttest.com^$important
-@@||www.office.com^$important
-@@||www.xboxlive.com^$important
-@@||www4.signon.gravityshavings.net^$important
 @@||x1streamingplans.azureedge.net^$important
 @@||xb-golf.tctd2.ubisoft.com^$important
 @@||xblcxplatqos-aue-9-18-2-0.cloudapp.net^$important
