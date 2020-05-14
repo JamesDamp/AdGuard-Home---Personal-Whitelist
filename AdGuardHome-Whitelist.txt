@@ -1,6 +1,3 @@
-### Personal Whitelist that has a focus on ensuring console gaming services will work: Xbox, Sony, Epic, Rockstar, etc.
-### as well as major first party platform providers such as Apple and Microsoft.
-### Good luck!
 @@||*.1.msftsrvcs.vo.llnwi.net^$important
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.dscd.akamai.net^$important
@@ -33,6 +30,7 @@
 @@||a463.w10.akamai.net^$important
 @@||a667.playfabapi.com^$important
 @@||a790.w16.akamai.net^$important
+@@||aaplimg.com^$important
 @@||account.np.ac.playstation.net^$important
 @@||accounts.ea.com^$important
 @@||activity.api.np.km.playstation.net^$important
@@ -129,6 +127,7 @@
 @@||entitlements.svc.halowaypoint.com^$important
 @@||epicgames.com^$important
 @@||es.ring.com^$important
+@@||eshop.nintendo.net^$important
 @@||eu-central-1-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||eu-west-1-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||event.api.np.km.playstation.net^$important
@@ -286,7 +285,9 @@
 @@||privacysettings.api.playstation.com^$important
 @@||prod.cloud.rockstargames.com^$important
 @@||prod.telemetry.ros.rockstargames.com^$important
+@@||prod-cdnugc-rockstargames.akamaized.net^$important
 @@||prod-notification-websocket.bethesda.net^$important
+@@||prod-rdr2-fc-rockstargames.akamaized.net^$important
 @@||profile.api.playstation.com^$important
 @@||profile.gamepass.com^$important
 @@||prs-gta5-prod.ros.rockstargames.com^$important
@@ -425,7 +426,6 @@
 @@||win1711.ipv6.microsoft.com^$important
 @@||win1807.ipv6.microsoft.com^$important
 @@||win1901.ipv6.microsoft.com^$important
-@@||wpad.localdomain^$important
 @@||x1streamingplans.azureedge.net^$important
 @@||xb-golf.tctd2.ubisoft.com^$important
 @@||xblcxplatqos-aue-9-18-2-0.cloudapp.net^$important
