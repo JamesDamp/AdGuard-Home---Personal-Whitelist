@@ -275,6 +275,7 @@
 @@||ping.ubnt.com^$important
 @@||ping.ui.com^$important
 @@||pin-river.data.ea.com^$important
+@@||pks-xb.tctd2.ubisoft.com^$important
 @@||plaid.xboxservices.com^$important
 @@||playfabapi.com^$important
 @@||playstation.com^$important
@@ -348,6 +349,7 @@
 @@||spring18.gosredirector.ea.com^$important
 @@||ss2.us^$important
 @@||static.ubnt.com^$important
+@@||static2.cdn.ubi.com^$important
 @@||static2.sharepointonline.com^$important
 @@||static8.cdn.ubi.com^$important
 @@||static-cdn.jtvnw.net^$important
@@ -360,6 +362,7 @@
 @@||store-images.microsoft.com^$important
 @@||sts.services.forzamotorsport.net^$important
 @@||tccmsms.azureedge.net^$important
+@@||tctd2.ubisoft.com^$important
 @@||telemetry.ros.rockstargames.com^$important
 @@||telemetry.services.forzamotorsport.net^$important
 @@||telemetry.svc.halowaypoint.com^$important
@@ -376,7 +379,9 @@
 @@||trophy.ww.np.community.playstation.net^$important
 @@||trophy01.np.community.playstation.net^$important
 @@||ubiservices.cdn.ubi.com^$important
+@@||ubisoft.com^$important
 @@||ubisoft-avatars.akamaized.net^$important
+@@||ubistatic2-a.akamaihd.net^$important
 @@||ugc.api.playstation.com^$important
 @@||ugc-gta5-prod.ros.rockstargames.com^$important
 @@||unifi-report.ubnt.com^$important
@@ -432,6 +437,7 @@
 @@||win1901.ipv6.microsoft.com^$important
 @@||x1streamingplans.azureedge.net^$important
 @@||xb-golf.tctd2.ubisoft.com^$important
+@@||xb-juliet.tctd2.ubisoft.com^$important
 @@||xblcxplatqos-aue-9-18-2-0.cloudapp.net^$important
 @@||xblcxplatqos-ause-9-18-2-0.cloudapp.net^$important
 @@||xblcxplatqos-brs-9-18-2-0.cloudapp.net^$important
