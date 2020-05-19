@@ -16,10 +16,10 @@
 @@||1.debian.pool.ntp.org^$important
 @@||2.dl.delivery.mp.microsoft.com^$important
 @@||2.tlu.dl.delivery.mp.microsoft.com^$important
-@@||3.dl.delivery.mp.microsoft.com^$important
 @@||3.dl.delivery.mp.microsoft.com.c.footprint.net^$important
-@@||3.tlu.dl.delivery.mp.microsoft.com^$important
+@@||3.dl.delivery.mp.microsoft.com^$important
 @@||3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net^$important
+@@||3.tlu.dl.delivery.mp.microsoft.com^$important
 @@||4-centralus1.pushp.svc.ms^$important
 @@||52-10-129-210-pushcl.np.communication.playstation.net^$important
 @@||54-201-170-112-pushcl.np.communication.playstation.net^$important
@@ -49,8 +49,8 @@
 @@||apple.com^$important
 @@||ap-southeast-2-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||aqua.xboxservices.com^$important
-@@||arc.msn.com^$important
 @@||arc.msn.com.nsatc.net^$important
+@@||arc.msn.com^$important
 @@||a-ring.msedge.net^$important
 @@||asm.np.community.playstation.net^$important
 @@||assets.ctfassets.net^$important
@@ -236,6 +236,7 @@
 @@||nleditor.osi.office.net^$important
 @@||notificationinbox.xboxlive.com^$important
 @@||nsx.sec.np.dl.playstation.net^$important
+@@||o.ss2.us^$important
 @@||ocos-office365-s2s.msedge.net^$important
 @@||ocsp.digicert.com^$important
 @@||ocsp.globalsign.com^$important
@@ -314,6 +315,7 @@
 @@||roaming.officeapps.live.com^$important
 @@||rockstargames.com^$important
 @@||ros.rockstargames.com^$important
+@@||s.ss2.us^$important
 @@||s2s.config.skype.com^$important
 @@||s3.us-east-2.amazonaws.com^$important
 @@||satchel-cdn.api.playstation.com^$important
@@ -328,14 +330,15 @@
 @@||sf.api.np.km.playstation.net^$important
 @@||sfbridge.prod.athena.msrareservices.com^$important
 @@||sfbwebextnsw.origin.com.au^$important
+@@||sg2p.wns.windows.com^$important
 @@||share.microsoft.com^$important
 @@||shellprod.msocdn.com^$important
 @@||signon.gravityshavings.net^$important
 @@||skyapi.onedrive.live.com^$important
 @@||skype.com^$important
 @@||skypeecs-prod-usw-0-b.cloudapp.net^$important
-@@||sls.update.microsoft.com^$important
 @@||sls.update.microsoft.com.nsatc.net^$important
+@@||sls.update.microsoft.com^$important
 @@||smartscreen-sn3p.smartscreen.microsoft.com^$important
 @@||sn.api.np.km.playstation.net^$important
 @@||social.xboxlive.com^$important
@@ -343,6 +346,7 @@
 @@||spoprod-a.akamaihd.net^$important
 @@||spo-ring.msedge.net^$important
 @@||spring18.gosredirector.ea.com^$important
+@@||ss2.us^$important
 @@||static.ubnt.com^$important
 @@||static2.sharepointonline.com^$important
 @@||static8.cdn.ubi.com^$important
@@ -405,8 +409,8 @@
 @@||us-tpy.np.community.playstation.net^$important
 @@||us-west-2-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||utas.external.s2.fut.ea.com^$important
-@@||v10.events.data.microsoft.com^$important
 @@||v10.events.data.microsoft.com/onecollector/1.0/^$important
+@@||v10.events.data.microsoft.com^$important
 @@||v10.vortex-win.data.microsoft.com/collect/v1^$important
 @@||v20.vortex-win.data.microsoft.com^$important
 @@||validation-v2.sls.trafficmanager.net^$important
