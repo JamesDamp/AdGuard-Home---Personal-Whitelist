@@ -201,6 +201,7 @@
 @@||iv0001-npxs01001_00.auth.np.ac.playstation.net^$important
 @@||jbox.ring.com^$important
 @@||launchermeta.mojang.com^$important
+@@||legal.ubi.com^$important
 @@||linear-api.svc.halowaypoint.com^$important
 @@||link.theplatform.com^$important
 @@||live.net^$important
@@ -378,6 +379,7 @@
 @@||trk.pinterest.com^$important
 @@||trophy.ww.np.community.playstation.net^$important
 @@||trophy01.np.community.playstation.net^$important
+@@||ubi.com^$important
 @@||ubiservices.cdn.ubi.com^$important
 @@||ubisoft.com^$important
 @@||ubisoft-avatars.akamaized.net^$important
