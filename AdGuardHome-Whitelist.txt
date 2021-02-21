@@ -112,11 +112,8 @@
 @@||catalog.gamepass.com^$important
 @@||catalog.services.forzamotorsport.net^$important
 @@||cdn.deadorbit.net^$important
-@@||cdn.jsdelivr.net^$important
 @@||cdn.nintendo.net^$important
 @@||cdn.onenote.net/livetile/?Language=en-US^$important
-@@||cdn.tinypass.com^$important
-@@||cdn.video.playwire.com^$important
 @@||channel.svc.halowaypoint.com^$important
 @@||chat.mixer.com^$important
 @@||checkout.rnps.dl.playstation.net^$important
@@ -144,7 +141,6 @@
 @@||crl.identrust.com^
 @@||cs11.wpc.v0cdn.net^$important
 @@||cs1137.wpc.gammacdn.net^$important
-@@||cs9.wac.phicdn.net^$important
 @@||cs-gta5-prod.ros.rockstargames.com^$important
 @@||csla.np.community.playstation.net^$important
 @@||ct.pinterest.com^$important
@@ -493,8 +489,6 @@
 @@||trk.pinterest.com^$important
 @@||trophy.ww.np.community.playstation.net^$important
 @@||trophy01.np.community.playstation.net^$important
-@@||tunnel33.zoom.us^$important
-@@||tunnel72.zoom.us^$important
 @@||ubi.com^$important
 @@||ubiservices.cdn.ubi.com^$important
 @@||ubiservices.data.ubi.com^$important
@@ -540,7 +534,6 @@
 @@||v20.vortex-win.data.microsoft.com^$important
 @@||vaccine-tracker.com^$important
 @@||validation-v2.sls.trafficmanager.net^$important
-@@||vast-australia.iad-apple.com.akadns.net^$important
 @@||video.mixer.com^$important
 @@||videocdn.mixer.com^$important
 @@||videocdn-sbs.akamaized.net^$important
@@ -568,7 +561,6 @@
 @@||www.nsw.gov.au^$important
 @@||www.woolworths.com.au^$important
 @@||www2.commsec.com.au^$important
-@@||www3.zoom.us^$important
 @@||x1streamingplans.azureedge.net^$important
 @@||xb-golf.tctd2.ubisoft.com^$important
 @@||xb-juliet.tctd2.ubisoft.com^$important
@@ -593,11 +585,3 @@
 @@||xbox-global.ifs.windows.com^$important
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
-@@||zoom.us^$important
-@@||zoomca193-123-15-236zc.cloud.zoom.us^$important
-@@||zoomca198-251-151-134zc.cloud.zoom.us^$important
-@@||zoomca198-251-151-22zc.cloud.zoom.us^$important
-@@||zoomsc16ht.zoom.us^$important
-@@||zoomva134-224-31-103zc.cloud.zoom.us^$important
-@@||zoomva17323188253zc.cloud.zoom.us^$important
-@@||zoomva17323188255zc.cloud.zoom.us^$important
