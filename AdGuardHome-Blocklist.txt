@@ -1,3 +1,4 @@
+||.localdomain
 ||^tritondigital.com^
 ||0.0.0.0.beeglivesex.com^
 ||0.0.0.0.hpyrdr.com^
@@ -26136,6 +26137,7 @@
 ||e860045edaecd.com^
 ||e89.friendfinder.com^
 ||e8934fbbed0495.com^
+||e8960.b.akamaiedge.net^
 ||e8999.b.akamaiedge.net^
 ||e8dcdcd1ddcb352b.com^
 ||e960e146d9b5ca.com^
@@ -73804,6 +73806,7 @@
 ||unolis.ru^
 ||unpaundlagot.pro^
 ||unpevsz.shoesmogul.com^
+||unpkg.com^$important
 ||unqualifiable-chin.000webhostapp.com^
 ||unquotable-tellers.000webhostapp.com^
 ||unreadmail.weebly.com^
@@ -78194,6 +78197,7 @@
 ||wp.richardhyettlawyernotary.com^
 ||wp11.org^
 ||wp9.ru^
+||wpad.
 ||wpad.adserver.com^
 ||wpad.cinci.rr.com^
 ||wpad.corp^
@@ -78761,6 +78765,7 @@
 ||www.goodscopy.com^
 ||www.google.com.khanimambatraining.co.za^
 ||www.google.com.toon5.com^
+||www.googleadservices.com^
 ||www.gov.hmrc.uktaxrefund.uk^
 ||www.gov.rebate0201.com^
 ||www.gov.rebate021.com^
