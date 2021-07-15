@@ -46,6 +46,7 @@
 @@||amzn.com^$important
 @@||amzn.to^$important
 @@||api.bethesda.net^$important
+@@||api.ethermine.org^$important
 @@||api.macquariebank.io^$important
 @@||api.mapbox.com^$important
 @@||api.markitondemand.com^$important
@@ -131,6 +132,7 @@
 @@||communities.api.playstation.com^$important
 @@||compass-ssl.xboxlive.com^$important
 @@||conductor.videosvc.mixer.com^$important
+@@||connect.facebook.net^$important
 @@||constellation.mixer.com^$important
 @@||content.halocdn.com^$important
 @@||content-hacs.svc.halowaypoint.com^$important
@@ -168,12 +170,18 @@
 @@||eas.outlook.com^$important
 @@||ecc8.playfabapi.com^$important
 @@||edge-040.jptyo.icloud-content.com^$important
+@@||elqtrk.intel.com.au^$important
 @@||emdl.ws.microsoft.com^$important
 @@||enphaseenergy.com^$important
 @@||entitlements.svc.halowaypoint.com^$important
 @@||epicgames.com^$important
 @@||es.ring.com^$important
 @@||eshop.nintendo.net^$important
+@@||etc.2miners.com^$important
+@@||eth.2miners.com^$important
+@@||ethermine.org^$important
+@@||etp.2miners.com^$important
+@@||eu1-zil.shardpool.io^$important
 @@||eu-central-1-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||eu-west-1-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||event.api.np.km.playstation.net^$important
@@ -254,6 +262,7 @@
 @@||in.appcenter.ms^$important
 @@||inbox-gta5-prod.ros.rockstargames.com^$important
 @@||int.whiteboard.microsoft.com^$important
+@@||intel.com.au.ssl.sc.omtrdc.net^$important
 @@||ipv6.microsoft.com^$important
 @@||ipv6.msftconnecttest.com^$important
 @@||ipv6.msftncsi.com^$important
@@ -342,6 +351,7 @@
 @@||onedriveclucprodbn20006.blob.core.windows.net^$important
 @@||onegov.nsw.gov.au^$important
 @@||onlineservices.ato.gov.au^$important
+@@||onsite2.researchintel.com^$important
 @@||oqesn.np.dl.playstation.net^$important
 @@||origin.sharepoint.com^$important
 @@||originenergyau.service-now.com^$important
@@ -450,6 +460,8 @@
 @@||spo-ring.msedge.net^$important
 @@||spring18.gosredirector.ea.com^$important
 @@||ss2.us^$important
+@@||starget.intel.com.au^$important
+@@||starget.intel.com^$important
 @@||static.ubnt.com^$important
 @@||static2.cdn.ubi.com^$important
 @@||static2.sharepointonline.com^$important
@@ -561,6 +573,8 @@
 @@||www.nsw.gov.au^$important
 @@||www.woolworths.com.au^$important
 @@||www2.commsec.com.au^$important
+@@||www91.intel.com.au^$important
+@@||www91.intel.com^$important
 @@||x1streamingplans.azureedge.net^$important
 @@||xb-golf.tctd2.ubisoft.com^$important
 @@||xb-juliet.tctd2.ubisoft.com^$important
