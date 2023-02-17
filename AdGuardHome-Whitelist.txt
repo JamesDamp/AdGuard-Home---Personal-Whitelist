@@ -599,3 +599,4 @@
 @@||xbox-global.ifs.windows.com^$important
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
+@@||login.live.com^$important
