@@ -755,3 +755,6 @@
 @@||mem.gfx.ms^$important
 @@||pocket.realms.minecraft.net^$important
 @@||gatherings.franchise.minecraft-services.net^$important
+@@||windows.msn.com^$important
+@@||api.msn.com^$important
+@@||ntp.msn.com^$important
