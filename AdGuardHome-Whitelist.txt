@@ -739,12 +739,3 @@
 @@||xbox-global.ifs.windows.com^$important
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
-||.localdomain
-||e8960.b.akamaiedge.net^
-||kiwiirc.com^$important
-||thinksuggest.org^$important
-||unpkg.com^
-||wpad.
-||www.googleadservices.com^
-||www.upsara.com^$important
-||youtube.com/s/search/audio/*.mp3
