@@ -747,9 +747,11 @@
 @@||1.courier-sandbox-push-apple.com.akadns.net^$important
 @@||1.courier-push-apple.com.akadns.net^$important
 @@||p62-imap.mail.me.com.akadns.net^$important
-@@||fw.ring.com^$client='192.168.1.19'
+@@||fw.ring.com^$important
 @@||p62-imap.mail.me.com^$important
 @@||us-sandbox-courier-4.push-apple.com.akadns.net^$important
 @@||www.tm.ak.prd.aadg.akadns.net^$important
 @@||www.tm.a.prd.aadg.akadns.net^$important
 @@||mem.gfx.ms^$important
+@@||pocket.realms.minecraft.net^$important
+@@||gatherings.franchise.minecraft-services.net^$important
