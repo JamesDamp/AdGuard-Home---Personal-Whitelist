@@ -890,3 +890,5 @@
 @@||xboxservices.com^$important
 @@||xp.apple.com^$important
 @@||xp-cdn.apple.com^$important
+@@||minecraft.net^$important
+@@||minecraft-services.net^$important
