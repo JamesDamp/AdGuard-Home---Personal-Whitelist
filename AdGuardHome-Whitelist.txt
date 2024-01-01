@@ -84,6 +84,7 @@
 @@||appboot.netflix.com^$important
 @@||appcenter.ms^$important
 @@||appldnld.apple.com^$important
+@@||apple.com.akadns.net
 @@||apple.com^$important
 @@||apple-finance.query.yahoo.com^$important
 @@||appleid.cdn-apple.com^$important
@@ -378,6 +379,7 @@
 @@||launchermeta.mojang.com^$important
 @@||lb._dns-sd._udp.0.0.168.192.in-addr.arpa^$important
 @@||lb._dns-sd._udp.localdomain^$important
+@@||lcdn-locator-usms11.apple.com.akadns.net^$important
 @@||learn.microsoft.com
 @@||legal.ubi.com^$important
 @@||linear-api.svc.halowaypoint.com^$important
