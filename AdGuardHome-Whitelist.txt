@@ -13,6 +13,8 @@
 @@||.g.akamaiedge.net^$important
 @@||.md.mp.microsoft.com^$important
 @@||.twimg.com^$important
+@@||1.courier-push-apple.com.akadns.net^$important
+@@||1.courier-sandbox-push-apple.com.akadns.net^$important
 @@||1.debian.pool.ntp.org^$important
 @@||168.63.129.16
 @@||169.254.169.254
@@ -61,12 +63,16 @@
 @@||amcdn.msftauth.net^$important
 @@||amzn.com^$important
 @@||amzn.to^$important
+@@||apac-au-courier-4.push-apple.com.akadns.net^$important
 @@||api.bethesda.net^$important
 @@||api.ethermine.org^$important
 @@||api.macquariebank.io^$important
 @@||api.mapbox.com^$important
 @@||api.markitondemand.com^$important
+@@||api.msn.com^$important
 @@||api.onedrive.com^$important
+@@||api.prod.signalling.ring.devices.a2z.com^$important
+@@||api.ring.com^$important
 @@||api.rollbar.com^$important
 @@||api.sbs.com.au^$important
 @@||api.tiles.mapbox.com^$important
@@ -82,6 +88,8 @@
 @@||apple-finance.query.yahoo.com^$important
 @@||appleid.cdn-apple.com^$important
 @@||app-measurement.com^$client='BatGateway'
+@@||app-site-association.cdn-apple.com^$important
+@@||app-snaps.ring.com^$important
 @@||ap-southeast-2-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||aqua.xboxservices.com^$important
 @@||arc.msn.com.nsatc.net^$important
@@ -172,6 +180,7 @@
 @@||communities.api.playstation.com^$important
 @@||compass-ssl.xboxlive.com^$important
 @@||conductor.videosvc.mixer.com^$important
+@@||configuration.apple.com.akadns.net^$important
 @@||connect.facebook.net^$important
 @@||constellation.mixer.com^$important
 @@||content.halocdn.com^$important
@@ -274,6 +283,7 @@
 @@||fs.microsoft.com^$important
 @@||fswitch.dl.playstation.net^$important
 @@||fus01.ps4.update.playstation.net^$important
+@@||fw.ring.com^$important
 @@||fw-update.ubnt.com^$important
 @@||fzft992-gosprodfeapp7137.i3d-dxb.ea.com^$important
 @@||g.live.com/1rewlive5skydrive/^$important
@@ -285,6 +295,7 @@
 @@||gate.hockeyapp.net^$important
 @@||gateway.icloud.com^$important
 @@||gateway.reddit.com^$important
+@@||gatherings.franchise.minecraft-services.net^$important
 @@||gcs.prod.monitoring.core.windows.net
 @@||gearsofwar.net^$important
 @@||geo.battle.net^$important
@@ -330,6 +341,7 @@
 @@||icloud.com^$important
 @@||iecvlist.microsoft.com^$important
 @@||images-na.ssl-images-amazon.com^
+@@||imap.mail.me.com.akadns.net^$important
 @@||img.youtube.com^$important
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||img-s-msn-com.akamaized.net^$important
@@ -387,6 +399,7 @@
 @@||me.apple-dns.net^$important
 @@||media.sbs.com.au^$important
 @@||mediaredirect.microsoft.com^$important
+@@||mem.gfx.ms^$important
 @@||metrics.icloud.com^$important
 @@||metrics.ubuntu.com^$important
 @@||microsoft.com^$important
@@ -418,6 +431,7 @@
 @@||notificationinbox.xboxlive.com^$important
 @@||nsw.gov.au^$important
 @@||nsx.sec.np.dl.playstation.net^$important
+@@||ntp.msn.com^$important
 @@||o.ss2.us^$important
 @@||o427368.ingest.sentry.io^$important
 @@||ocos-office365-s2s.msedge.net^$important
@@ -431,6 +445,7 @@
 @@||ocsp.sca1b.amazontrust.com^$important
 @@||ocsp.sectigo.com^$important
 @@||ocsp.usertrust.com^$important
+@@||ocsp2-lb.apple.com.akadns.net^$important
 @@||odinvzc.azureedge.net^$important
 @@||office.com^$important
 @@||officeapps.live.com^$important
@@ -456,6 +471,8 @@
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
 @@||p.typekit.net^$important
 @@||p11.techlab-cdn.com^$important
+@@||p62-imap.mail.me.com.akadns.net^$important
+@@||p62-imap.mail.me.com^$important
 @@||packs.svc.halowaypoint.com^$important
 @@||parallels.com^$important
 @@||party.rnps.dl.playstation.net^$important
@@ -486,6 +503,7 @@
 @@||playstation.com^$important
 @@||playstation.net^$important
 @@||plex.tv^$important
+@@||pocket.realms.minecraft.net^$important
 @@||policies.education.nsw.gov.au^$important
 @@||post.net.playstation.net^$important
 @@||prdw-time-us.prd.rings.solution^$important
@@ -517,6 +535,7 @@
 @@||query.prod.cms.rt.microsoft.com^$important
 @@||r.bing.com^$important
 @@||r4.res.office365.com^$important
+@@||radarsubmissions.apple.com.akadns.net^$important
 @@||receive-lp1.dg.srv.nintendo.net^$important
 @@||referral.ubi.com^$important
 @@||reports.enphaseenergy.com^$important
@@ -564,6 +583,7 @@
 @@||sls.update.microsoft.com.nsatc.net^$important
 @@||sls.update.microsoft.com^$important
 @@||smartscreen-sn3p.smartscreen.microsoft.com^$important
+@@||s-mzstatic-applak.itunes-apple.com.akadns.net^$important
 @@||sn.api.np.km.playstation.net^$important
 @@||social.xboxlive.com^$important
 @@||spartanstats.svc.halowaypoint.com^$important
@@ -666,6 +686,7 @@
 @@||us-ntl.np.community.playstation.net^$important
 @@||us-prof.np.community.playstation.net^$important
 @@||us-push.np.communication.playstation.net^$important
+@@||us-sandbox-courier-4.push-apple.com.akadns.net^$important
 @@||us-tpy.np.community.playstation.net^$important
 @@||us-west-2-prod-prodxbl01-reg-httpping.p76prod.systems^$important
 @@||utas.external.s2.fut.ea.com^$important
@@ -694,6 +715,7 @@
 @@||win1711.ipv6.microsoft.com^$important
 @@||win1807.ipv6.microsoft.com^$important
 @@||win1901.ipv6.microsoft.com^$important
+@@||windows.msn.com^$important
 @@||wvd.microsoft.com
 @@||wvdportalstorageblob.blob.core.windows.net
 @@||www.americanexpress.com^$important
@@ -711,6 +733,9 @@
 @@||www.ojrq.net^$important
 @@||www.redditmedia.com^$important
 @@||www.redditstatic.com^$important
+@@||www.tm.a.prd.aadg.akadns.net^$important
+@@||www.tm.ak.prd.aadg.akadns.net^$important
+@@||www.tm.ak.prd.aadg.trafficmanager.net^$important
 @@||www.woolworths.com.au^$important
 @@||www2.commsec.com.au^$important
 @@||www91.intel.com.au^$important
@@ -739,28 +764,3 @@
 @@||xbox-global.ifs.windows.com^$important
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
-@@||api.ring.com^$important
-@@||api.prod.signalling.ring.devices.a2z.com^$important
-@@||app-snaps.ring.com^$important
-@@||apac-au-courier-4.push-apple.com.akadns.net^$important
-@@||configuration.apple.com.akadns.net^$important
-@@||1.courier-sandbox-push-apple.com.akadns.net^$important
-@@||1.courier-push-apple.com.akadns.net^$important
-@@||p62-imap.mail.me.com.akadns.net^$important
-@@||fw.ring.com^$important
-@@||p62-imap.mail.me.com^$important
-@@||us-sandbox-courier-4.push-apple.com.akadns.net^$important
-@@||www.tm.ak.prd.aadg.akadns.net^$important
-@@||www.tm.a.prd.aadg.akadns.net^$important
-@@||mem.gfx.ms^$important
-@@||pocket.realms.minecraft.net^$important
-@@||gatherings.franchise.minecraft-services.net^$important
-@@||windows.msn.com^$important
-@@||api.msn.com^$important
-@@||ntp.msn.com^$important
-@@||imap.mail.me.com.akadns.net^$important
-@@||app-site-association.cdn-apple.com^$important
-@@||ocsp2-lb.apple.com.akadns.net^$important
-@@||s-mzstatic-applak.itunes-apple.com.akadns.net^$important
-@@||www.tm.ak.prd.aadg.trafficmanager.net^$important
-@@||radarsubmissions.apple.com.akadns.net^$important
