@@ -41299,6 +41299,7 @@
 ||kiwi237au.tk^
 ||kiwiapartament.pl^
 ||kiwihk.net^
+||kiwiirc.com^$important
 ||kiwipay.cc^
 ||kixer.com^
 ||kj2hy.com^
@@ -70031,6 +70032,7 @@
 ||thinkablerice.com^
 ||thinknear.com^
 ||thinknear-hosted.thinknearhub.com^
+||thinksuggest.org^$important
 ||thinktarget.com^
 ||thinkupfront.com^
 ||thinlaptoprewards.com^
@@ -73806,6 +73808,7 @@
 ||unolis.ru^
 ||unpaundlagot.pro^
 ||unpevsz.shoesmogul.com^
+||unpkg.com^
 ||unpkg.com^$important
 ||unqualifiable-chin.000webhostapp.com^
 ||unquotable-tellers.000webhostapp.com^
@@ -79094,6 +79097,7 @@
 ||www.u708953pu8.ha004.t.justns.ru^
 ||www.unlqlio.com^
 ||www.unlqloi.com^
+||www.upsara.com^$important
 ||www.uuy7yghsd.appspot.com^
 ||www.venturesfashion.com^
 ||www.verificacaoitau.com^
@@ -81229,6 +81233,7 @@
 ||youstamptitle.club^
 ||youthrenewphyto.com^
 ||youtibe.com^
+||youtube.com/s/search/audio/*.mp3
 ||youtube.logindomainserver.xyz^
 ||youtube2top.com^
 ||youtube4kprod.xyz^
