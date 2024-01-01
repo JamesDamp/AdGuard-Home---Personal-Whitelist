@@ -739,3 +739,6 @@
 @@||xbox-global.ifs.windows.com^$important
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
+@@||api.ring.com^$important
+@@||api.prod.signalling.ring.devices.a2z.com^$important
+@@||app-snaps.ring.com^$important
