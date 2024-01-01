@@ -317,7 +317,10 @@
 @@||gql.reddit.com^$important
 @@||graph.windows.net^$important
 @@||graphql.epicgames.com^$important
+@@||gs2.sonycoment.loris-e.llnwd.net^$important
+@@||gs2.ww.prod.dl.playstation.net.edgesuite.net^$important
 @@||gs2.ww.prod.dl.playstation.net^$important
+@@||gs2-ww-prod.psn.akadns.net^$important
 @@||gs-loc.ls-apple.com.akadns.net^$important
 @@||gs-loc-new.ls-apple.com.akadns.net^$important
 @@||gsp1.apple.com^$important
@@ -343,6 +346,8 @@
 @@||i-0d4b7f06d0973096a.ddns.ea.com^$important
 @@||i-0e6be15d765b2346a.ddns.ea.com^$important
 @@||i-0faa2a8e88414379e.ddns.ea.com^$important
+@@||ic.ae179e00.05f0ff.gs2.sonycoment.loris-e.llnwd.net^$important
+@@||ic.ae179e00.11a2c5.gs2.sonycoment.loris-e.llnwd.net^$important
 @@||ic-24035808809f00000000000000000000-0f52b7-xboxassets.s.loris.llnwd.net^$important
 @@||ic-9fc49400-0f52b7-xboxassets.s.loris.llnwd.net^$important
 @@||ichnaea.netflix.com^$important
@@ -519,7 +524,9 @@
 @@||playroompod.local^$important
 @@||playstation.com^$important
 @@||playstation.net^$important
+@@||playstation4.sony.akadns.net^$important
 @@||plex.tv^$important
+@@||pls.patch.station.sony.com^$important
 @@||pocket.realms.minecraft.net^$important
 @@||policies.education.nsw.gov.au^$important
 @@||post.net.playstation.net^$important
@@ -653,6 +660,7 @@
 @@||thumbs.mixer.com^$important
 @@||titlestorage.bethesda.net^$important
 @@||titlestorage.xboxlive.com^$important
+@@||tmdb.np.dl.playstation.net^$important
 @@||tms.americanexpress.com^$important
 @@||to-do.microsoft.com^$important
 @@||trace.svc.ui.com^$important
@@ -784,15 +792,3 @@
 @@||xbox-global.ifs.windows.com^$important
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
-@@||gs2.ww.prod.dl.playstation.net^$important
-@@||ic.ae179e00.05f0ff.gs2.sonycoment.loris-e.llnwd.net^$important
-@@||ic.ae179e00.11a2c5.gs2.sonycoment.loris-e.llnwd.net^$important
-@@||pls.patch.station.sony.com^$important
-@@||gs2.ww.prod.dl.playstation.net^$important
-@@||gs2.sonycoment.loris-e.llnwd.net^$important
-@@||theia.dl.playstation.net^$important
-@@||tmdb.np.dl.playstation.net^$important
-@@||gs-sec.ww.np.dl.playstation.net^$important
-@@||playstation4.sony.akadns.net^$important
-@@||gs2-ww-prod.psn.akadns.net^$important
-@@||gs2.ww.prod.dl.playstation.net.edgesuite.net^$important
