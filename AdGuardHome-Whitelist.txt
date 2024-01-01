@@ -65,6 +65,7 @@
 @@||amcdn.msftauth.net^$important
 @@||amzn.com^$important
 @@||amzn.to^$important
+@@||apac-asia-courier-4.push-apple.com.akadns.net^$important
 @@||apac-au-courier-4.push-apple.com.akadns.net^$important
 @@||api.apple-cloudkit.com^$important
 @@||api.bethesda.net^$important
@@ -382,6 +383,7 @@
 @@||i-0faa2a8e88414379e.ddns.ea.com^$important
 @@||ic.ae179e00.05f0ff.gs2.sonycoment.loris-e.llnwd.net^$important
 @@||ic.ae179e00.11a2c5.gs2.sonycoment.loris-e.llnwd.net^$important
+@@||ic-24035808809f00000000000000000000-05b8d9-xboxd1.s.loris.llnwd.net^$important
 @@||ic-24035808809f00000000000000000000-0f52b7-xboxassets.s.loris.llnwd.net^$important
 @@||ic-9fc49400-0f52b7-xboxassets.s.loris.llnwd.net^$important
 @@||ichnaea.netflix.com^$important
@@ -450,6 +452,7 @@
 @@||m.facebook.com^$important
 @@||m365cdn.nel.measure.office.net^$important
 @@||macquarie.com.au^$important
+@@||mail.me.com^$important
 @@||malwarebytes.com^$important
 @@||mandrillapp.com^$important
 @@||maps.windows.com^$important
@@ -548,6 +551,7 @@
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
 @@||p.typekit.net^$important
 @@||p11.techlab-cdn.com^$important
+@@||p35-imap.mail.me.com^$important
 @@||p62-imap.mail.me.com.akadns.net^$important
 @@||p62-imap.mail.me.com^$important
 @@||packs.svc.halowaypoint.com^$important
@@ -611,6 +615,7 @@
 @@||public-ws-ubiservices.ubi.com^$important
 @@||publisher.liveperson.net^$important
 @@||purchase.api.2kcoretech.online^$important
+@@||push-apple.com.akadns.net^$important
 @@||query.prod.cms.rt.microsoft.com
 @@||query.prod.cms.rt.microsoft.com^$important
 @@||r.bing.com^$important
@@ -630,6 +635,7 @@
 @@||roaming.officeapps.live.com^$important
 @@||rockstargames.com^$important
 @@||ros.rockstargames.com^$important
+@@||s.loris.llnwd.net^$important
 @@||s.mzstatic.com^$important
 @@||s.ss2.us^$important
 @@||s2s.config.skype.com^$important
@@ -871,8 +877,3 @@
 @@||xboxservices.com^$important
 @@||xp.apple.com^$important
 @@||xp-cdn.apple.com^$important
-@@||ic-24035808809f00000000000000000000-05b8d9-xboxd1.s.loris.llnwd.net^$important
-@@||push-apple.com.akadns.net^$important
-@@||apac-asia-courier-4.push-apple.com.akadns.net^$important
-@@||p35-imap.mail.me.com^$important
-@@||mail.me.com^$important
