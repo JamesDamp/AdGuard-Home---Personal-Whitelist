@@ -157,6 +157,7 @@
 @@||cdn.onenote.net/livetile/?Language=en-US^$important
 @@||cdn.spectrumcustomizer.com^$client='Phantom11 - NUC'
 @@||cdn.spectrumcustomizer.com^$important
+@@||cdn-apple.com^$important
 @@||cdns.au1.gigya.com^$client='PC - Mac Mini - Wired'
 @@||cdp.cloud.unity3d.com^$important
 @@||channel.svc.halowaypoint.com^$important
@@ -176,6 +177,7 @@
 @@||collector.abc.net.au^$important
 @@||commerce.api.np.km.playstation.net^$important
 @@||commerce1.api.np.km.playstation.net^$important
+@@||common-us.onedrive.akadns.net^$important
 @@||communications.boardroomlimited.com.au^$important
 @@||communities.api.playstation.com^$important
 @@||compass-ssl.xboxlive.com^$important
@@ -197,6 +199,7 @@
 @@||cs-gta5-prod.ros.rockstargames.com^$important
 @@||csla.np.community.playstation.net^$important
 @@||ct.pinterest.com^$important
+@@||cxcs.microsoft.net^$important
 @@||cy2.licensing.md.mp.microsoft.com.akadns.net^$important
 @@||cy2.purchase.md.mp.microsoft.com.akadns.net^$important
 @@||d2yyd1h5u9mauk.cloudfront.net^$important
@@ -315,6 +318,7 @@
 @@||graphql.epicgames.com^$important
 @@||gs2.ww.prod.dl.playstation.net^$important
 @@||gs-loc.ls-apple.com.akadns.net^$important
+@@||gs-loc-new.ls-apple.com.akadns.net^$important
 @@||gsp1.apple.com^$important
 @@||gsp64-ssl.ls-apple.com.akadns.net^$important
 @@||gspe11-ssl.ls.apple.com.edgekey.net^$important
@@ -351,6 +355,7 @@
 @@||init-cdn.itunes-apple.com.akadns.net^$important
 @@||int.whiteboard.microsoft.com^$important
 @@||intel.com.au.ssl.sc.omtrdc.net^$important
+@@||iphone-ld.origin-apple.com.akadns.net^$important
 @@||ipv6.microsoft.com^$important
 @@||ipv6.msftconnecttest.com^$important
 @@||ipv6.msftncsi.com^$important
@@ -400,10 +405,12 @@
 @@||me.apple-dns.net^$important
 @@||media.sbs.com.au^$important
 @@||mediaredirect.microsoft.com^$important
+@@||mediaservices.cdn-apple.com^$important
 @@||mem.gfx.ms^$important
 @@||metrics.icloud.com^$important
 @@||metrics.ubuntu.com^$important
 @@||microsoft.com^$important
+@@||microsoft.net^$important
 @@||microsoft.qualtrics.com^$important
 @@||microsofthalo.sc.omtrdc.net^$important
 @@||minecraftearthcdn.azureedge.net^$important
@@ -455,6 +462,7 @@
 @@||omns.americanexpress.com^$important
 @@||oneclient.sfx.ms^$important
 @@||onecollector.cloudapp.aria^$important
+@@||onedrive.akadns.net^$important
 @@||onedriveclubproddm20007.blob.core.windows.net^$important
 @@||onedriveclucprodbn20006.blob.core.windows.net^$important
 @@||onegov.nsw.gov.au^$important
@@ -463,6 +471,7 @@
 @@||onsite2.researchintel.com^$important
 @@||oqesn.np.dl.playstation.net^$important
 @@||origin.sharepoint.com^$important
+@@||origin-apple.com.akadns.net^$important
 @@||originenergyau.service-now.com^$important
 @@||origin-my.sharepoint.com^$important
 @@||ota-downloads.nvidia.com^$important
