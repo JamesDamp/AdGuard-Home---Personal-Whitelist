@@ -233,6 +233,7 @@
 @@||db._dns-sd._udp.0.0.168.192.in-addr.arpa^$important
 @@||dc.services.visualstudio.com^$important
 @@||deadorbit.net^$important
+@@||deff.nelreports.net^$important
 @@||device.amplifi.com^$important
 @@||deviceenrollment.apple.com^$important
 @@||device-provisioning.googleapis.com^$important
@@ -408,6 +409,7 @@
 @@||ipv6.microsoft.com^$important
 @@||ipv6.msftconnecttest.com^$important
 @@||ipv6.msftncsi.com^$important
+@@||ipv6check-http.steamserver.net^$important
 @@||iris.mwbsys.com^$important
 @@||is1-ssl.mzstatic.com^$important
 @@||is2-ssl.mzstatic.com^$important
@@ -637,6 +639,7 @@
 @@||s.loris.llnwd.net^$important
 @@||s.mzstatic.com^$important
 @@||s.ss2.us^$important
+@@||s.team^$important
 @@||s2s.config.skype.com^$important
 @@||s3.ap-southeast-2.wasabisys.com^$important
 @@||s3.us-east-2.amazonaws.com^$important
@@ -701,6 +704,17 @@
 @@||stats-beta.svc.gearsofwar.net^$important
 @@||stats-gander.prod.svc.gearsofwar.net^$important
 @@||stats-prod.svc.gearsofwar.net^$important
+@@||steam-chat.com^$important
+@@||steamchina.com^$important
+@@||steamcommunity.com^$important
+@@||steamcontent.com^$important
+@@||steamgames.com^$important
+@@||steampowered.com.8686c.com^$important
+@@||steampowered.com^$important
+@@||steamserver.net^$important
+@@||steamstatic.com.8686c.com^$important
+@@||steamstatic.com^$important
+@@||steamusercontent.com^$important
 @@||stocks-analytics-events.news.apple-dns.net^$important
 @@||storage.live.com^$important
 @@||storage.lp1.scsi.srv.nintendo.net^$important
