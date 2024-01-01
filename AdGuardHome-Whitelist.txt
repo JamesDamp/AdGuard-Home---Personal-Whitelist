@@ -892,3 +892,4 @@
 @@||xp-cdn.apple.com^$important
 @@||minecraft.net^$important
 @@||minecraft-services.net^$important
+@@||xp.itunes-apple.com.akadns.net^$important
