@@ -871,3 +871,4 @@
 @@||xboxservices.com^$important
 @@||xp.apple.com^$important
 @@||xp-cdn.apple.com^$important
+@@||ic-24035808809f00000000000000000000-05b8d9-xboxd1.s.loris.llnwd.net^$important
