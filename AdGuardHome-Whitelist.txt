@@ -14,7 +14,6 @@
 @@||.md.mp.microsoft.com^$important
 @@||.push.apple.com^$important
 @@||.twimg.com^$important
-@@||^$important
 @@||1.courier-push-apple.com.akadns.net^$important
 @@||1.courier-sandbox-push-apple.com.akadns.net^$important
 @@||1.debian.pool.ntp.org^$important
