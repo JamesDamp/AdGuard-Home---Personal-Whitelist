@@ -314,6 +314,7 @@
 @@||graph.windows.net^$important
 @@||graphql.epicgames.com^$important
 @@||gs2.ww.prod.dl.playstation.net^$important
+@@||gs-loc.ls-apple.com.akadns.net^$important
 @@||gsp1.apple.com^$important
 @@||gsp64-ssl.ls-apple.com.akadns.net^$important
 @@||gspe11-ssl.ls.apple.com.edgekey.net^$important
@@ -514,6 +515,7 @@
 @@||prod.cloud.rockstargames.com^$important
 @@||prod.do.dsp.mp.microsoft.com
 @@||prod.matchmaking.t17service.com^$important
+@@||prod.nexusrules.live.com.akadns.net^$important
 @@||prod.telemetry.ros.rockstargames.com^$important
 @@||prod.warm.ingest.monitor.core.windows.net
 @@||prod-cdnugc-rockstargames.akamaized.net^$important
@@ -639,6 +641,7 @@
 @@||to-do.microsoft.com^$important
 @@||trace.svc.ui.com^$important
 @@||tracking.epicgames.com^$important
+@@||trafficmanager.net^$important
 @@||trdojapanwestrs4vmss.ipv6.microsoft.com.akadns.net^$important
 @@||trk.pinterest.com^$important
 @@||trophy.ww.np.community.playstation.net^$important
