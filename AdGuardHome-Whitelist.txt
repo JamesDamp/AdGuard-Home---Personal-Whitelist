@@ -26,6 +26,7 @@
 @@||3.dl.delivery.mp.microsoft.com^$important
 @@||3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net^$important
 @@||3.tlu.dl.delivery.mp.microsoft.com^$important
+@@||38.courier-push-apple.com.akadns.net^$important
 @@||4-centralus1.pushp.svc.ms^$important
 @@||52-10-129-210-pushcl.np.communication.playstation.net^$important
 @@||54-201-170-112-pushcl.np.communication.playstation.net^$important
@@ -33,6 +34,7 @@
 @@||6-c-0003.c-msedge.net^$important
 @@||72qclg2-gosprod-qos02.i3d-jnb.ea.com^$important
 @@||7651.playfabapi.com^$important
+@@||9.courier-push-apple.com.akadns.net^$important
 @@||9056efd54cbb1f69d7725450d53a84df.clo.footprintdns.com^$important
 @@||9446e931dd2e3aeecf54a68adbe7eea9.nrb.footprintdns.com^$client='Phantom11 - NUC'
 @@||95de.playfabapi.com^$important
@@ -137,6 +139,8 @@
 @@||b.thumbs.redditmedia.com^$important
 @@||b0922220bc74b85c275e4250ed173339.clo.footprintdns.com^$important
 @@||b5n.1password.com^$important
+@@||bag-cdn.itunes-apple.com.akadns.net^$important
+@@||bag-cdn-lb.itunes-apple.com.akadns.net^$important
 @@||banprocessor.svc.halowaypoint.com^$important
 @@||batnas.local^$important
 @@||bedpod.local^$important
@@ -150,8 +154,11 @@
 @@||browser.events.data.msn.com^$important
 @@||bugs.mojang.com^$important
 @@||bupa.localdomain^$important
+@@||buy.itunes-apple.com.akadns.net^$important
 @@||buy.tinypass.com^$important
+@@||bzib.nelreports.net^$important
 @@||c.1password.com^$important
+@@||c.apple.news^$important
 @@||c.bay.livefilestore.com^$important
 @@||c.msn.com^$important
 @@||c1.microsoft.com^$important
@@ -211,6 +218,7 @@
 @@||crash.steampowered.com^$important
 @@||crews-gta5-prod.ros.rockstargames.com^$important
 @@||crl.apple.com^$important
+@@||crl.comodoca.com^$important
 @@||crl.entrust.net^$important
 @@||crl.identrust.com^
 @@||crl3.digicert.com^$important
@@ -354,10 +362,13 @@
 @@||gs2.ww.prod.dl.playstation.net^$important
 @@||gs2-ww-prod.psn.akadns.net^$important
 @@||gsa.apple.com^$important
+@@||gsas.idms-apple.com.akadns.net^$important
 @@||gs-loc.ls-apple.com.akadns.net^$important
 @@||gs-loc-new.ls-apple.com.akadns.net^$important
 @@||gsp1.apple.com^$important
+@@||gsp10-ssl.ls-apple.com.akadns.net^$important
 @@||gsp64-ssl.ls-apple.com.akadns.net^$important
+@@||gsp9-ssl.ls-apple.com.akadns.net^$important
 @@||gspe11-ssl.ls.apple.com.edgekey.net^$important
 @@||gsp-ssl.ls-apple.com.akadns.net^$important
 @@||gs-sec.ww.np.dl.playstation.net^$important
@@ -476,7 +487,9 @@
 @@||microsoft.net^$important
 @@||microsoft.qualtrics.com^$important
 @@||microsofthalo.sc.omtrdc.net^$important
+@@||minecraft.net^$important
 @@||minecraftearthcdn.azureedge.net^$important
+@@||minecraft-services.net^$important
 @@||mixer.com^$important
 @@||mm-gta5-prod.ros.rockstargames.com^$important
 @@||mobile.pipe.aria.microsoft.com^$important
@@ -499,6 +512,7 @@
 @@||news-events.news.apple-dns.net^$important
 @@||newsguardtech.com^$important
 @@||nexus.ensighten.com^$important
+@@||ngx.download.nvidia.com^$important
 @@||nleditor.osi.office.net^$important
 @@||notificationinbox.xboxlive.com^$important
 @@||ns.itunes.apple.com^$important
@@ -552,6 +566,8 @@
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
 @@||p.typekit.net^$important
 @@||p11.techlab-cdn.com^$important
+@@||p14-buy-lb.itunes-apple.com.akadns.net^$important
+@@||p35-imap.mail.me.com.akadns.net^$important
 @@||p35-imap.mail.me.com^$important
 @@||p62-imap.mail.me.com.akadns.net^$important
 @@||p62-imap.mail.me.com^$important
@@ -635,6 +651,7 @@
 @@||rnps-crl.dl.playstation.net^$important
 @@||roaming.officeapps.live.com^$important
 @@||rockstargames.com^$important
+@@||root.skype-edf.akadns.net^$important
 @@||ros.rockstargames.com^$important
 @@||s.loris.llnwd.net^$important
 @@||s.mzstatic.com^$important
@@ -889,7 +906,5 @@
 @@||xboxlive.com^$important
 @@||xboxservices.com^$important
 @@||xp.apple.com^$important
-@@||xp-cdn.apple.com^$important
-@@||minecraft.net^$important
-@@||minecraft-services.net^$important
 @@||xp.itunes-apple.com.akadns.net^$important
+@@||xp-cdn.apple.com^$important
