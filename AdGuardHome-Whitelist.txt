@@ -216,6 +216,7 @@
 @@||content.halocdn.com^$important
 @@||content-hacs.svc.halowaypoint.com^$important
 @@||continuum.dds.microsoft.com^$important
+@@||courier-push-apple.com.akadns.net^$important^$important
 @@||covid19dashboard.be.unsw.edu.au^$important
 @@||crackerjack.msgamestudios.com^$important
 @@||crash.steampowered.com^$important
@@ -432,8 +433,10 @@
 @@||is3-ssl.mzstatic.com^$important
 @@||is4-ssl.mzstatic.com^$important
 @@||is5-ssl.mzstatic.com^$important
+@@||is-ssl.mzstatic.com.itunes-apple.com.akadns.net^$important
 @@||itunes.apple.com^$important
 @@||itunes.com^$important
+@@||itunes-apple.com.akadns.net^$important
 @@||iv0001-npxs01001_00.auth.np.ac.playstation.net^$important
 @@||iwmap.americanexpress.com^$important
 @@||iwork.apple.com^$important
