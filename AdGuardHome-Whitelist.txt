@@ -10,6 +10,7 @@
 @@||*prod.do.dsp.mp.microsoft.com^$important
 @@||..akamai.net^$important
 @@||..akamaiedge.net^$important
+@@||.coles.com.au^$important
 @@||.g.akamaiedge.net^$important
 @@||.md.mp.microsoft.com^$important
 @@||.push.apple.com^$important
@@ -37,7 +38,7 @@
 @@||7651.playfabapi.com^$important
 @@||9.courier-push-apple.com.akadns.net^$important
 @@||9056efd54cbb1f69d7725450d53a84df.clo.footprintdns.com^$important
-@@||9446e931dd2e3aeecf54a68adbe7eea9.nrb.footprintdns.com^$client='Phantom11 - NUC'
+@@||9446e931dd2e3aeecf54a68adbe7eea9.nrb.footprintdns.com^$important
 @@||95de.playfabapi.com^$important
 @@||989c518d67cbcf6fc29516b3bf4557e3.azr.footprintdns.com^$important
 @@||a.tiles.mapbox.com^$important
@@ -101,7 +102,6 @@
 @@||appleid.apple.com^$important
 @@||appleid.cdn-apple.com^$important
 @@||apple-livephotoskit.com^$important
-@@||app-measurement.com^$client='BatGateway'
 @@||apps.apple.com^$important
 @@||app-site-association.cdn-apple.com^$important
 @@||app-site-association.networking.apple^$important
@@ -178,12 +178,10 @@
 @@||cdn.getblueshift.com^$important
 @@||cdn.nintendo.net^$important
 @@||cdn.onenote.net/livetile/?Language=en-US^$important
-@@||cdn.spectrumcustomizer.com^$client='Phantom11 - NUC'
 @@||cdn.spectrumcustomizer.com^$important
 @@||cdn-apple.com^$important
 @@||cdn-locator.apple.com^$important
 @@||cdn-registration.apple.com^$important
-@@||cdns.au1.gigya.com^$client='PC - Mac Mini - Wired'
 @@||cdp.cloud.unity3d.com^$important
 @@||certs.apple.com^$important
 @@||channel.svc.halowaypoint.com^$important
@@ -191,7 +189,6 @@
 @@||checkout.rnps.dl.playstation.net^$important
 @@||chtbl.com^$important
 @@||cl5-cdn.origin-apple.com.akadns.net^$important
-@@||clicktime.symantec.com^$client='NUC - Office Hades10'
 @@||client.wns.windows.com^$important
 @@||clients.config.office.net^$important
 @@||client-s.gateway.messenger.live.com^$important
@@ -250,9 +247,9 @@
 @@||deviceenrollment.apple.com^$important
 @@||device-provisioning.googleapis.com^$important
 @@||deviceservices-external.apple.com^$important
-@@||diag.meethue.com^$client='IOT - Hue Hub'
+@@||diag.meethue.com^$important
 @@||diagassets.apple.com^$important
-@@||digicert.com
+@@||digicert.com^$important
 @@||directory.t17service.com^$important
 @@||dlassets-ssl.xboxlive.com^$important
 @@||dm2301.storage.live.com^$important
@@ -315,7 +312,7 @@
 @@||fifa20.content.easports.com^$important
 @@||fifa20.service.easports.com^$important
 @@||fifa20-prod-app-ps4-08.ea.com^$important
-@@||firebase-settings.crashlytics.com^$client='BatGateway'
+@@||firebase-settings.crashlytics.com^$important
 @@||fmfmobile.fe.apple-dns.net^$important
 @@||forms.office.com^$important
 @@||forzamotorsport.net^$important
@@ -354,7 +351,7 @@
 @@||gg.apple.com^$important
 @@||global.americanexpress.com^$important
 @@||g-msn-com-nsatc.trafficmanager.net^$important
-@@||go.microsoft.com
+@@||go.microsoft.com^$important
 @@||goo.gl^$important
 @@||gosprodfeapp7123.ea.com^$important
 @@||gpla1.wac.v2cdn.net^$important
@@ -446,13 +443,13 @@
 @@||js.arcgis.com^$important
 @@||js.media-lab.ai^$important
 @@||js.monitor.azure.com^$important
-@@||kms.core.windows.net
+@@||kms.core.windows.net^$important
 @@||k-ring.msedge.net^$important
 @@||launchermeta.mojang.com^$important
 @@||lb._dns-sd._udp.0.0.168.192.in-addr.arpa^$important
 @@||lb._dns-sd._udp.localdomain^$important
 @@||lcdn-locator-usms11.apple.com.akadns.net^$important
-@@||learn.microsoft.com
+@@||learn.microsoft.com^$important
 @@||legal.ubi.com^$important
 @@||linear-api.svc.halowaypoint.com^$important
 @@||link.theplatform.com^$important
@@ -504,7 +501,7 @@
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||mobile.twitter.com^$important
 @@||modern.akamai.odsp.cdn.office.net^$important
-@@||moiazureorigin.clo.footprintdns.com^$client='Phantom11 - NUC'
+@@||moiazureorigin.clo.footprintdns.com^$important
 @@||mojang.com^$important
 @@||mrsglobalsteus2prod.blob.core.windows.net
 @@||msagfx.live.com^$important
@@ -558,7 +555,7 @@
 @@||onedriveclubproddm20007.blob.core.windows.net^$important
 @@||onedriveclucprodbn20006.blob.core.windows.net^$important
 @@||onegov.nsw.gov.au^$important
-@@||oneocsp.microsoft.com
+@@||oneocsp.microsoft.com^$important
 @@||onlineservices.ato.gov.au^$important
 @@||onsite2.researchintel.com^$important
 @@||oqesn.np.dl.playstation.net^$important
@@ -670,6 +667,7 @@
 @@||s.ss2.us^$important
 @@||s.team^$important
 @@||s2s.config.skype.com^$important
+@@||s3.ap-southeast-2.amazonaws.com^$important
 @@||s3.ap-southeast-2.wasabisys.com^$important
 @@||s3.us-east-2.amazonaws.com^$important
 @@||satchel-cdn.api.playstation.com^$important
@@ -689,7 +687,7 @@
 @@||sf.api.np.km.playstation.net^$important
 @@||sfbridge.prod.athena.msrareservices.com^$important
 @@||sfbwebextnsw.origin.com.au^$important
-@@||sfx.ms
+@@||sfx.ms^$important
 @@||sg2p.wns.windows.com^$important
 @@||share.microsoft.com^$important
 @@||shellprod.msocdn.com^$important
@@ -791,8 +789,7 @@
 @@||trophy.ww.np.community.playstation.net^$important
 @@||trophy01.np.community.playstation.net^$important
 @@||u11952735.ct.sendgrid.net^$important
-@@||u12885128.ct.sendgrid.net^$client='NUC - Office Hades10'
-@@||u8154511.ct.sendgrid.net^$client='192.168.0.66'
+@@||u8154511.ct.sendgrid.net^$important
 @@||ubi.com^$important
 @@||ubiservices.cdn.ubi.com^$important
 @@||ubiservices.data.ubi.com^$important
