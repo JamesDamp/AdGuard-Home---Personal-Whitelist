@@ -22,6 +22,7 @@
 @@||192-168-0-61.3f87146447a948789e1ab5db5d649949.plex.direct^$important
 @@||2.dl.delivery.mp.microsoft.com^$important
 @@||2.tlu.dl.delivery.mp.microsoft.com^$important
+@@||20.courier-push-apple.com.akadns.net^$important
 @@||3.dl.delivery.mp.microsoft.com.c.footprint.net^$important
 @@||3.dl.delivery.mp.microsoft.com^$important
 @@||3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net^$important
@@ -162,6 +163,7 @@
 @@||c.bay.livefilestore.com^$important
 @@||c.msn.com^$important
 @@||c1.microsoft.com^$important
+@@||cache.agilebits.com^$important
 @@||cam-analytics.nzxt.com^$important
 @@||captive.apple.com^$important
 @@||carrotweather.herokuapp.com^$important
@@ -191,6 +193,7 @@
 @@||cl5-cdn.origin-apple.com.akadns.net^$important
 @@||clicktime.symantec.com^$client='NUC - Office Hades10'
 @@||client.wns.windows.com^$important
+@@||clients.config.office.net^$important
 @@||client-s.gateway.messenger.live.com^$important
 @@||cloud.collectorz.com^$important
 @@||clouddata.api.2kcoretech.online^$important
@@ -254,6 +257,7 @@
 @@||dm2301.storage.live.com^$important
 @@||doh.dns.apple.com^$important
 @@||domain.opendns.com^$important
+@@||download.lenovo.com^$important
 @@||download.windowsupdate.com^$important
 @@||dual-a-0001.a-msedge.net^$important
 @@||duckduckgo.com^$important
@@ -362,6 +366,7 @@
 @@||gs2.ww.prod.dl.playstation.net^$important
 @@||gs2-ww-prod.psn.akadns.net^$important
 @@||gsa.apple.com^$important
+@@||gsa.idms-apple.com.akadns.net^$important
 @@||gsas.idms-apple.com.akadns.net^$important
 @@||gs-loc.ls-apple.com.akadns.net^$important
 @@||gs-loc-new.ls-apple.com.akadns.net^$important
@@ -439,6 +444,7 @@
 @@||js.media-lab.ai^$important
 @@||js.monitor.azure.com^$important
 @@||kms.core.windows.net
+@@||k-ring.msedge.net^$important
 @@||launchermeta.mojang.com^$important
 @@||lb._dns-sd._udp.0.0.168.192.in-addr.arpa^$important
 @@||lb._dns-sd._udp.localdomain^$important
@@ -566,6 +572,7 @@
 @@||outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net^$important
 @@||p.typekit.net^$important
 @@||p11.techlab-cdn.com^$important
+@@||p14-buy.itunes-apple.com.akadns.net^$important
 @@||p14-buy-lb.itunes-apple.com.akadns.net^$important
 @@||p35-imap.mail.me.com.akadns.net^$important
 @@||p35-imap.mail.me.com^$important
@@ -641,6 +648,8 @@
 @@||receive-lp1.dg.srv.nintendo.net^$important
 @@||referral.ubi.com^$important
 @@||reports.enphaseenergy.com^$important
+@@||res.cdn.office.net^$important
+@@||res-1.cdn.office.net^$important
 @@||resource.np.ac.playstation.net^$important
 @@||resources.sbs.com.au^$important
 @@||rewards.services.forzamotorsport.net^$important
