@@ -33,6 +33,7 @@
 @@||52-10-129-210-pushcl.np.communication.playstation.net^$important
 @@||54-201-170-112-pushcl.np.communication.playstation.net^$important
 @@||62f0520ea90fb93be1fed96c4251a52a.clo.footprintdns.com^$important
+@@||67f3c266cb99e78f9bfae0cfba25ebbdca9865a19e806fab894c32f221710eb.us-east-
 @@||6-c-0003.c-msedge.net^$important
 @@||72qclg2-gosprod-qos02.i3d-jnb.ea.com^$important
 @@||7651.playfabapi.com^$important
@@ -60,6 +61,7 @@
 @@||activity.api.np.km.playstation.net^$important
 @@||activity.windows.com^$important
 @@||aefd.nelreports.net^$important
+@@||ak8s-prod-sy2-ext-nlb-2f5b1960a1bc7e98.elb.ap-southeast-2.amazonaws.com^$important
 @@||aka.ms
 @@||aka.ms^$important
 @@||alibaba.cdn.steampipe.steamcontent.com^$important
@@ -88,6 +90,7 @@
 @@||api.twitch.tv^$important
 @@||api.twitter.com^$important
 @@||api-global.netflix.com^$important
+@@||apigw.americanexpress.com^$important
 @@||api-v3.tinypass.com^$important
 @@||appattest.apple.com^$important
 @@||app-b03.lp1.npns.srv.nintendo.net^$important
@@ -133,6 +136,7 @@
 @@||az725175.vo.msecnd.net^$important
 @@||azkms.core.windows.net
 @@||azr.footprintdns.com
+@@||azscus1-client-s.gateway.messenger.live.com^$important
 @@||azure-dns.com
 @@||azure-dns.net
 @@||b._dns-sd._udp.0.0.168.192.in-addr.arpa^$important
@@ -147,6 +151,7 @@
 @@||bedpod.local^$important
 @@||bedroom.local^$important
 @@||bethesda.net^$important
+@@||bin.bnbstatic.com^$important
 @@||bingwallpaperimages.azureedge.net^$important
 @@||blob.core.windows.net^$important
 @@||blob.weather.microsoft.com^$important
@@ -173,6 +178,7 @@
 @@||catalog.services.forzamotorsport.net^$important
 @@||catalogartifact.azureedge.net
 @@||cc26556ab160033e2b51abcefd79de01.clo.footprintdns.com^$important
+@@||cdn.apple-mapkit.com^$important
 @@||cdn.cookielaw.org^$important
 @@||cdn.deadorbit.net^$important
 @@||cdn.getblueshift.com^$important
@@ -198,6 +204,7 @@
 @@||co4.telecommand.telemetry.microsoft.com^$important
 @@||code.highcharts.com^$important
 @@||code.jquery.com^$important
+@@||coinmarketcap.com^$important
 @@||collector.abc.net.au^$important
 @@||commerce.api.np.km.playstation.net^$important
 @@||commerce1.api.np.km.playstation.net^$important
@@ -253,10 +260,13 @@
 @@||directory.t17service.com^$important
 @@||dlassets-ssl.xboxlive.com^$important
 @@||dm2301.storage.live.com^$important
+@@||dns-ir0-81e5-e1d063f1-f076-4ee6-ad32-e2cf018eba47.australiaeast.cloudapp.azure.com^$important
 @@||doh.dns.apple.com^$important
 @@||domain.opendns.com^$important
 @@||download.lenovo.com^$important
+@@||download.msi.com^$important
 @@||download.windowsupdate.com^$important
+@@||drivers.amd.com^$important
 @@||dual-a-0001.a-msedge.net^$important
 @@||duckduckgo.com^$important
 @@||e-0009.e-msedge.net^$important
@@ -280,6 +290,7 @@
 @@||elqtrk.intel.com.au^$important
 @@||elqtrk.intel.com^$important
 @@||email.airbnbmail.com^$important
+@@||email.mg.humanitix.com^$important
 @@||email.teacherspayteachers.com^$important
 @@||emdl.ws.microsoft.com^$important
 @@||enphaseenergy.com^$important
@@ -324,6 +335,7 @@
 @@||friends.rnps.dl.playstation.net^$important
 @@||fs.microsoft.com^$important
 @@||fswitch.dl.playstation.net^$important
+@@||functions.americanexpress.com^$important
 @@||fus01.ps4.update.playstation.net^$important
 @@||fw.ring.com^$important
 @@||fw-update.ubnt.com^$important
@@ -331,6 +343,8 @@
 @@||g.live.com/1rewlive5skydrive/^$important
 @@||g.msn.com^$important
 @@||gallery.services.forzamotorsport.net^$important
+@@||gamelift.ap-northeast-1.amazonaws.com^$important
+@@||gamelift.ap-southeast-2.amazonaws.com^$important
 @@||gamelist.api.playstation.com^$important
 @@||gameservices.fh4.forzamotorsport.net^$important
 @@||garagepod.local^$important
@@ -371,6 +385,7 @@
 @@||gsp1.apple.com^$important
 @@||gsp10-ssl.ls-apple.com.akadns.net^$important
 @@||gsp64-ssl.ls-apple.com.akadns.net^$important
+@@||gsp85-ssl.ls2-apple.com.akadns.net^$important
 @@||gsp9-ssl.ls-apple.com.akadns.net^$important
 @@||gspe11-ssl.ls.apple.com.edgekey.net^$important
 @@||gsp-ssl.ls-apple.com.akadns.net^$important
@@ -414,6 +429,7 @@
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||img-s-msn-com.akamaized.net^$important
 @@||in.appcenter.ms^$important
+@@||inbound.americanexpress.com^$important
 @@||inbox-gta5-prod.ros.rockstargames.com^$important
 @@||init-cdn.itunes-apple.com.akadns.net^$important
 @@||int.whiteboard.microsoft.com^$important
@@ -635,6 +651,7 @@
 @@||ps4updptl.au.np.community.playstation.net^$important
 @@||ps-gta5-prod.ros.rockstargames.com^$important
 @@||psn-rsc.prod.dl.playstation.net^$important
+@@||public.bnbstatic.com^$important
 @@||public-ubiservices.ubi.com^$important
 @@||public-ws-ubiservices.ubi.com^$important
 @@||publisher.liveperson.net^$important
@@ -666,6 +683,7 @@
 @@||s.mzstatic.com^$important
 @@||s.ss2.us^$important
 @@||s.team^$important
+@@||s2.coinmarketcap.com^$important
 @@||s2s.config.skype.com^$important
 @@||s3.ap-southeast-2.amazonaws.com^$important
 @@||s3.ap-southeast-2.wasabisys.com^$important
@@ -673,12 +691,15 @@
 @@||satchel-cdn.api.playstation.com^$important
 @@||sbahn-publish.api.playstation.com^$important
 @@||sbsvodns-vh.akamaihd.net^$important
+@@||schoolsnsw-my.sharepoint.com^$important
 @@||se2-cdn.itunes-apple.com.akadns.net^$important
 @@||secure.netflix.com^$important
 @@||self.events.data.microsoft.com^$important
 @@||sentry.io^$important
 @@||serverstatus.apple.com^$important
+@@||service-api.app-sources.com^$important
 @@||servicebus.windows.net
+@@||services.bingapis.com^$important
 @@||sessiondirectory.xboxlive.com^$important
 @@||settings.data.microsoft.com^$important
 @@||settings.services.forzamotorsport.net^$important
@@ -845,6 +866,7 @@
 @@||v10.events.data.microsoft.com^$important
 @@||v10.vortex-win.data.microsoft.com/collect/v1^$important
 @@||v20.vortex-win.data.microsoft.com^$important
+@@||v79f2pvaf9.execute-api.ap-northeast-1.amazonaws.com^$important
 @@||vaccine-tracker.com^$important
 @@||valid.apple.com^$important
 @@||validation-v2.sls.trafficmanager.net^$important
@@ -897,6 +919,7 @@
 @@||www2.commsec.com.au^$important
 @@||www91.intel.com.au^$important
 @@||www91.intel.com^$important
+@@||www-mail.icloud-sandbox.com^$important
 @@||x1streamingplans.azureedge.net^$important
 @@||xb-golf.tctd2.ubisoft.com^$important
 @@||xb-juliet.tctd2.ubisoft.com^$important
