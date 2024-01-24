@@ -15,6 +15,7 @@
 @@||.md.mp.microsoft.com^$important
 @@||.push.apple.com^$important
 @@||.twimg.com^$important
+@@||.vanguard.com.au^$important
 @@||1.courier-push-apple.com.akadns.net^$important
 @@||1.courier-sandbox-push-apple.com.akadns.net^$important
 @@||1.debian.pool.ntp.org^$important
@@ -24,6 +25,7 @@
 @@||2.dl.delivery.mp.microsoft.com^$important
 @@||2.tlu.dl.delivery.mp.microsoft.com^$important
 @@||20.courier-push-apple.com.akadns.net^$important
+@@||24.courier-push-apple.com.akadns.net^$important
 @@||3.dl.delivery.mp.microsoft.com.c.footprint.net^$important
 @@||3.dl.delivery.mp.microsoft.com^$important
 @@||3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net^$important
@@ -57,6 +59,7 @@
 @@||accounts.2k.com^$important
 @@||accounts.au1.gigya.com^$important
 @@||accounts.ea.com^$important
+@@||achievements.xboxlive.com.akadns.net^$important
 @@||acquisition-1.americanexpress.com^$important
 @@||activity.api.np.km.playstation.net^$important
 @@||activity.windows.com^$important
@@ -68,6 +71,7 @@
 @@||amazon.com^$important
 @@||amazonmr.au1.qualtrics.com^$important
 @@||amcdn.msftauth.net^$important
+@@||amripv4.consent.config.office.akadns.net^$important
 @@||amzn.com^$important
 @@||amzn.to^$important
 @@||apac-asia-courier-4.push-apple.com.akadns.net^$important
@@ -104,6 +108,7 @@
 @@||apple-finance.query.yahoo.com^$important
 @@||appleid.apple.com^$important
 @@||appleid.cdn-apple.com^$important
+@@||appleid.idms-apple.com.akadns.net^$important
 @@||apple-livephotoskit.com^$important
 @@||apps.apple.com^$important
 @@||app-site-association.cdn-apple.com^$important
@@ -133,6 +138,7 @@
 @@||automation.atlassian.com^$important
 @@||au-tpy.np.community.playstation.net^$important
 @@||avatarsv3.xboxlive.com^$important
+@@||avty.xboxlive.com.akadns.net^$important
 @@||az725175.vo.msecnd.net^$important
 @@||azkms.core.windows.net
 @@||azr.footprintdns.com
@@ -146,6 +152,7 @@
 @@||b5n.1password.com^$important
 @@||bag-cdn.itunes-apple.com.akadns.net^$important
 @@||bag-cdn-lb.itunes-apple.com.akadns.net^$important
+@@||bam.nr-data.net.cdn.cloudflare.net^$important
 @@||banprocessor.svc.halowaypoint.com^$important
 @@||batnas.local^$important
 @@||bedpod.local^$important
@@ -192,6 +199,7 @@
 @@||certs.apple.com^$important
 @@||channel.svc.halowaypoint.com^$important
 @@||chat.mixer.com^$important
+@@||chat.xboxlive.com.akadns.net^$important
 @@||checkout.rnps.dl.playstation.net^$important
 @@||chtbl.com^$important
 @@||cl5-cdn.origin-apple.com.akadns.net^$important
@@ -200,6 +208,7 @@
 @@||client-s.gateway.messenger.live.com^$important
 @@||cloud.collectorz.com^$important
 @@||clouddata.api.2kcoretech.online^$important
+@@||clubhub.xboxlive.com.akadns.net^$important
 @@||cms.sso.msgamestudios.com^$important
 @@||co4.telecommand.telemetry.microsoft.com^$important
 @@||code.highcharts.com^$important
@@ -237,6 +246,7 @@
 @@||cs-gta5-prod.ros.rockstargames.com^$important
 @@||csla.np.community.playstation.net^$important
 @@||ct.pinterest.com^$important
+@@||curryon.orderup.com.au^$important
 @@||cxcs.microsoft.net^$important
 @@||cy2.licensing.md.mp.microsoft.com.akadns.net^$important
 @@||cy2.purchase.md.mp.microsoft.com.akadns.net^$important
@@ -267,6 +277,7 @@
 @@||download.msi.com^$important
 @@||download.windowsupdate.com^$important
 @@||drivers.amd.com^$important
+@@||ds-aksb-a.akamaihd.net^$important
 @@||dual-a-0001.a-msedge.net^$important
 @@||duckduckgo.com^$important
 @@||e-0009.e-msedge.net^$important
@@ -294,6 +305,7 @@
 @@||email.teacherspayteachers.com^$important
 @@||emdl.ws.microsoft.com^$important
 @@||enphaseenergy.com^$important
+@@||enrichment.osi.office.net^$important
 @@||entitlements.api.2kcoretech.online^$important
 @@||entitlements.edge-itunes-apple.com.akadns.net^$important
 @@||entitlements.svc.halowaypoint.com^$important
@@ -350,6 +362,7 @@
 @@||garagepod.local^$important
 @@||gate.hockeyapp.net^$important
 @@||gateway.icloud.com^$important
+@@||gateway.prod.us-west-2.forester.a2z.com^$important
 @@||gateway.reddit.com^$important
 @@||gatherings.franchise.minecraft-services.net^$important
 @@||gc.apple.com^$important
@@ -384,6 +397,7 @@
 @@||gs-loc-new.ls-apple.com.akadns.net^$important
 @@||gsp1.apple.com^$important
 @@||gsp10-ssl.ls-apple.com.akadns.net^$important
+@@||gsp57-ssl-background.ls-apple.com.akadns.net^$important
 @@||gsp64-ssl.ls-apple.com.akadns.net^$important
 @@||gsp85-ssl.ls2-apple.com.akadns.net^$important
 @@||gsp9-ssl.ls-apple.com.akadns.net^$important
@@ -420,6 +434,7 @@
 @@||icloud.com^$important
 @@||icloud-content.com^$important
 @@||identity.apple.com^$important
+@@||identity.vanguard.com.au^$important
 @@||idmsa.apple.com^$important
 @@||iecvlist.microsoft.com^$important
 @@||ig.apple.com^$important
@@ -475,6 +490,7 @@
 @@||lobby.svc.halowaypoint.com^$important
 @@||local^$important
 @@||localhost^$important
+@@||locate.madserver.net^$important
 @@||log.pinterest.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com
@@ -536,6 +552,7 @@
 @@||nexus.ensighten.com^$important
 @@||ngx.download.nvidia.com^$important
 @@||nleditor.osi.office.net^$important
+@@||notificationinbox.xboxlive.com.akadns.net^$important
 @@||notificationinbox.xboxlive.com^$important
 @@||ns.itunes.apple.com^$important
 @@||nsw.gov.au^$important
@@ -657,6 +674,7 @@
 @@||publisher.liveperson.net^$important
 @@||purchase.api.2kcoretech.online^$important
 @@||push-apple.com.akadns.net^$important
+@@||query.ess-apple.com.akadns.net^$important
 @@||query.prod.cms.rt.microsoft.com
 @@||query.prod.cms.rt.microsoft.com^$important
 @@||r.bing.com^$important
@@ -667,6 +685,7 @@
 @@||reports.enphaseenergy.com^$important
 @@||res.cdn.office.net^$important
 @@||res-1.cdn.office.net^$important
+@@||research.applesurveys.com^$important
 @@||resource.np.ac.playstation.net^$important
 @@||resources.sbs.com.au^$important
 @@||rewards.services.forzamotorsport.net^$important
@@ -679,6 +698,7 @@
 @@||rockstargames.com^$important
 @@||root.skype-edf.akadns.net^$important
 @@||ros.rockstargames.com^$important
+@@||rta.xboxlive.com.akadns.net^$important
 @@||s.loris.llnwd.net^$important
 @@||s.mzstatic.com^$important
 @@||s.ss2.us^$important
@@ -714,6 +734,7 @@
 @@||shellprod.msocdn.com^$important
 @@||signon.gravityshavings.net^$important
 @@||sirius.mwbsys.com^$important
+@@||sisu.xboxlive.com.akadns.net^$important
 @@||skl.apple.com^$important
 @@||skyapi.onedrive.live.com^$important
 @@||skydrive.wns.windows.com^
@@ -787,6 +808,7 @@
 @@||teams.nel.measure.office.net^$important
 @@||telemetry.1passwordservices.com^$important
 @@||telemetry.deeparc.net^$important
+@@||telemetry.palworldgame.com^$important
 @@||telemetry.ros.rockstargames.com^$important
 @@||telemetry.services.forzamotorsport.net^$important
 @@||telemetry.svc.halowaypoint.com^$important
@@ -886,6 +908,7 @@
 @@||whatismyipaddress.com^$important
 @@||whiteboard.microsoft.com^$important
 @@||whiteboard.ms^$important
+@@||win10-trt.msedge.net^$important
 @@||win1711.ipv6.microsoft.com^$important
 @@||win1807.ipv6.microsoft.com^$important
 @@||win1901.ipv6.microsoft.com^$important
@@ -938,6 +961,7 @@
 @@||xblcxplatqos-seas-9-18-2-0.cloudapp.net^$important
 @@||xblcxplatqos-weu-9-18-2-0.cloudapp.net^$important
 @@||xblcxplatqos-wus-9-18-2-0.cloudapp.net^$important
+@@||xblmessaging.xboxlive.com.akadns.net^$important
 @@||xbl-smooth-ssl-xboxlive-com.akamaized.net^$important
 @@||xbox.com^$important
 @@||xbox.ipv6.microsoft.com^$important
@@ -951,6 +975,7 @@
 @@||xda-developers.com^$important
 @@||xflight.xboxlive.com^$important
 @@||xgpupcapp.gssv-play-prod.xboxlive.com^$important
+@@||xgrant.xboxlive.com.akadns.net^$important
 @@||xhome.gssv-play-prod.xboxlive.com^$important
 @@||xhub-scripts.dolby.com^$important
 @@||xkms.xboxlive.com^$important
@@ -959,4 +984,5 @@
 @@||xp.apple.com^$important
 @@||xp.itunes-apple.com.akadns.net^$important
 @@||xp-cdn.apple.com^$important
+@@||xsts.auth.xboxlive.com.akadns.net^$important
 @@||xsts.auth.xboxlive.com^$important
